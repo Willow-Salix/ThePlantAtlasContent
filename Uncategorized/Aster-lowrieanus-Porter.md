@@ -1,35 +1,38 @@
 ---
-title: Lowrie's Aster
-description: Aster lowrieanus Porter
+title: "Lowrie's Aster"
+description: "Care guide for Aster lowrieanus Porter"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/aster-lowrieanus-porter
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Lowrie's Aster
+### *Aster lowrieanus Porter*
 
-*Aster lowrieanus Porter* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Eastern North America |
-| **Climate** | Temperate Deciduous Forest |
-| **Sunlight** | Full sun to partial shade (at least 4-6 hours of direct sun) |
-| **Watering** | Consistent moisture, especially during dry periods; requires well-drained soil to prevent waterlogging, mimicking moderate, consistent rainfall. |
+| **🌍 Origin** | Eastern North America |
+| **🌡️ Climate** | Temperate Deciduous Forest |
+| **☀️ Light** | Full sun to partial shade (at least 4-6 hours of direct sun) |
+| **💧 Water** | Consistent moisture, especially during dry periods; requires well-drained soil to prevent waterlogging, mimicking moderate, consistent rainfall. |
 
-## Introduction
+## 🌱 Overview
 Aster or ASTER may refer to:
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=825146)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=825146)
 
-## Care Guide
+## 🧤 Care Instructions
 Lowrie's Aster, native to temperate deciduous forests of Eastern North America, thrives in full sun to partial shade with consistently moist, well-drained soil. It requires minimal fertilization, preferring soil naturally enriched with organic matter. Ensure adequate watering during dry spells.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to moderate; thrives in average to rich soil, benefiting from organic matter but generally not needing heavy fertilization.
 
+---
+**Family:** [Uncategorized](/uncategorized)

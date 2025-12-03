@@ -1,30 +1,31 @@
 ---
-title: Gulf Coast Searocket
-description: Cakile constricta Rodman
+title: "Gulf Coast Searocket"
+description: "Care guide for Cakile constricta Rodman"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/cakile-constricta-rodman
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Gulf Coast Searocket
-
-*Cakile constricta Rodman* • **Uncategorized**
+### *Cakile constricta Rodman*
 
 ![Gulf Coast Searocket](https://upload.wikimedia.org/wikipedia/commons/e/e8/Cakile_Maritima.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (along the Gulf Coast, from Florida to Texas) |
-| **Climate** | Coastal Dune/Beach (Temperate to Subtropical Coastal Zone) |
-| **Sunlight** | High sun (full sun exposure for at least 6-8 hours daily), as it grows in open, exposed coastal environments. |
-| **Watering** | Infrequent to moderate watering; thrives in well-drained sandy soils. Allow the soil to dry out completely between waterings, mimicking intermittent rainfall in its native habitat. |
+| **🌍 Origin** | Southeastern United States (along the Gulf Coast, from Florida to Texas) |
+| **🌡️ Climate** | Coastal Dune/Beach (Temperate to Subtropical Coastal Zone) |
+| **☀️ Light** | High sun (full sun exposure for at least 6-8 hours daily), as it grows in open, exposed coastal environments. |
+| **💧 Water** | Infrequent to moderate watering; thrives in well-drained sandy soils. Allow the soil to dry out completely between waterings, mimicking intermittent rainfall in its native habitat. |
 
-## Introduction
+## 🌱 Overview
 Cakile is a genus within the flowering plant family Brassicaceae.  Species in this genus are commonly known as searockets, though this name on its own is applied particularly to whatever member of the species is native or most common in the region concerned, the European searocket Cakile maritima in Europe, and the American searocket C. edentula in North America.  The genus is native to Europe, Asia and North America, but the European searocket has been introduced into North America and has spread widely on both east and west coasts; in many places it is replacing the native C. edentula, and is regarded as an undesirable invasive species.
 Cakile species grow as annual plants with an erect or decumbent stem.  The common species in Europe and North America grow close to the coast, often in dunes.  Their leaves are fleshy.  Flowers are typically pale mauve to white, with petals about 1 cm in length.  Each fruit has two sections, one that remains attached to the adult, and the other which that falls off for dispersal by wind or water.
 They are rather similar to those of the wild radish (also in family Brassicaceae) which is found in the same regions, and careful attention to the leaves and stems is needed to tell the two plants apart.
@@ -38,11 +39,13 @@ Cakile geniculata (B.L.Rob.) Millsp.
 Cakile lanceolata (Willd.) O.E.Schulz
 Cakile maritima Scop.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=2533810)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=2533810)
 
-## Care Guide
+## 🧤 Care Instructions
 Provide full sun exposure and extremely well-draining soil, characteristic of coastal dunes. Water sparingly, allowing the soil to dry between sessions, and avoid heavy fertilization as it is adapted to lean, sandy conditions.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to no fertilizer needed. Native sandy soils are typically nutrient-poor, so excessive fertilization is detrimental.
 
+---
+**Family:** [Uncategorized](/uncategorized)

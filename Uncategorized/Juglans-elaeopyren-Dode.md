@@ -1,37 +1,40 @@
 ---
-title: Andean Walnut
-description: Juglans elaeopyren Dode
+title: "Andean Walnut"
+description: "Care guide for Juglans elaeopyren Dode"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/juglans-elaeopyren-dode
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Andean Walnut
-
-*Juglans elaeopyren Dode* • **Uncategorized**
+### *Juglans elaeopyren Dode*
 
 ![Andean Walnut](https://upload.wikimedia.org/wikipedia/commons/a/a1/Juglans_neotrop3.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Andes Mountains of South America (Colombia, Ecuador, Peru, Bolivia) |
-| **Climate** | Tropical Montane Forest / Cloud Forest |
-| **Sunlight** | Full sun to partial shade; prefers bright direct light for optimal growth as a mature tree. |
-| **Watering** | Requires consistently moist, well-draining soil. Water regularly, especially during dry periods, but avoid waterlogging. |
+| **🌍 Origin** | Andes Mountains of South America (Colombia, Ecuador, Peru, Bolivia) |
+| **🌡️ Climate** | Tropical Montane Forest / Cloud Forest |
+| **☀️ Light** | Full sun to partial shade; prefers bright direct light for optimal growth as a mature tree. |
+| **💧 Water** | Requires consistently moist, well-draining soil. Water regularly, especially during dry periods, but avoid waterlogging. |
 
-## Introduction
+## 🌱 Overview
 Juglans neotropica is a species of plant in the Juglandaceae family. It is found in Colombia, Ecuador, and Peru. It is threatened by habitat loss.   Common names include Colombian walnut, Ecuadorian walnut, Andean walnut, nogal, cedro negro, cedro nogal, and nogal Bogotano.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=12891005)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=12891005)
 
-## Care Guide
+## 🧤 Care Instructions
 The Andean Walnut thrives in conditions simulating its native tropical montane habitat, requiring ample bright light and consistently moist but well-draining soil. Regular watering and moderate fertilization during growth will support its robust development.
 
-### Fertilizer
+### 🧪 Fertilizer
 Benefits from moderate fertilization with a balanced fertilizer during the active growing season, or enrichment with organic compost.
 
+---
+**Family:** [Uncategorized](/uncategorized)

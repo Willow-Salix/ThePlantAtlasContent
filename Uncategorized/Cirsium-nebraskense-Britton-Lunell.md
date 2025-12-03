@@ -1,30 +1,31 @@
 ---
-title: Nebraska Thistle
-description: Cirsium nebraskense (Britton) Lunell
+title: "Nebraska Thistle"
+description: "Care guide for Cirsium nebraskense (Britton) Lunell"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/cirsium-nebraskense-britton-lunell
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Nebraska Thistle
-
-*Cirsium nebraskense (Britton) Lunell* • **Uncategorized**
+### *Cirsium nebraskense (Britton) Lunell*
 
 ![Nebraska Thistle](https://upload.wikimedia.org/wikipedia/commons/6/62/Cirsium_heterophyllum_5_RF.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Central United States (Great Plains region), including states like Nebraska, Kansas, Iowa, South Dakota, Wyoming, and Colorado. |
-| **Climate** | Temperate Grassland/Prairie |
-| **Sunlight** | Full sun (6+ hours direct sunlight daily) due to its native open prairie habitat with minimal canopy cover. |
-| **Watering** | Moderate watering; allow soil to dry out between waterings. It is adapted to seasonal rainfall patterns with periods of drought common in temperate grasslands. |
+| **🌍 Origin** | Central United States (Great Plains region), including states like Nebraska, Kansas, Iowa, South Dakota, Wyoming, and Colorado. |
+| **🌡️ Climate** | Temperate Grassland/Prairie |
+| **☀️ Light** | Full sun (6+ hours direct sunlight daily) due to its native open prairie habitat with minimal canopy cover. |
+| **💧 Water** | Moderate watering; allow soil to dry out between waterings. It is adapted to seasonal rainfall patterns with periods of drought common in temperate grasslands. |
 
-## Introduction
+## 🌱 Overview
 Cirsium is a genus of perennial and biennial flowering plants in the Asteraceae, one of several genera known commonly as thistles. They are more precisely known as plume thistles. These differ from other thistle genera (Carduus, Silybum and Onopordum) in having a seed with a pappus of feathered hairs on their achenes. The other genera have a pappus of simple unbranched hairs.
 They are mostly native to Eurasia and northern Africa, with about 60 species from North America (although several species have been introduced outside their native ranges). The lectotype species of the genus is Cirsium heterophyllum (L.) Hill.
 Cirsium thistles are known for their effusive flower heads, usually purple, rose or pink, also yellow or white. The radially symmetrical disc flowers are at the end of the branches and are visited by many kinds of insects, featuring a generalised pollination syndrome. They have erect stems, with a characteristic enlarged base of the flower which is often spiny. The leaves are alternate, spiny in many (but not all) species, and in some species can be slightly to densely hairy. Extensions from the leaf base down the stem, called wings, can be lacking (Cirsium arvense), conspicuous (Cirsium vulgare), or inconspicuous. They can spread by seed, and also by rhizomes below the surface (Cirsium arvense). The seeds have a tuft of hair, or pappus, which can carry them far by wind.
@@ -34,11 +35,13 @@ Some ecological organizations, such as the Xerces Society, have attempted to rai
 Certain species of Cirsium, like Cirsium monspessulanum, Cirsium pyrenaicum and Cirsium vulgare, have been traditionally used as food in rural areas of southern Europe. Cirsium oleraceum is cultivated as a food source in Japan and India. Cirsium setidens is used as a vegetable in Korean cuisine.
 'Cirsium' is the Greek word for thistle, kirsos, likely derived from 'swollen vein'. The flower blooms April to August.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=424725)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=424725)
 
-## Care Guide
+## 🧤 Care Instructions
 This prairie native thrives in full sun, mimicking its open grassland habitat. It requires moderate watering, tolerating some drought once established, and has minimal fertilizer needs, relying on the natural richness of its native soils.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to minimal. Adapted to naturally fertile prairie soils rich in organic matter; over-fertilization is typically not required and can be detrimental.
 
+---
+**Family:** [Uncategorized](/uncategorized)

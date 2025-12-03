@@ -1,28 +1,29 @@
 ---
-title: Iris regifulva Alexander
-description: Iris regifulva Alexander
+title: "Iris regifulva Alexander"
+description: "Care guide for Iris regifulva Alexander"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/iris-regifulva-alexander
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Iris regifulva Alexander
+### *Iris regifulva Alexander*
 
-*Iris regifulva Alexander* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States |
-| **Climate** | Temperate Wetland/Riparian Zone |
-| **Sunlight** | Full sun to partial shade |
-| **Watering** | Consistently wet; requires high moisture and can tolerate standing water |
+| **🌍 Origin** | Southeastern United States |
+| **🌡️ Climate** | Temperate Wetland/Riparian Zone |
+| **☀️ Light** | Full sun to partial shade |
+| **💧 Water** | Consistently wet; requires high moisture and can tolerate standing water |
 
-## Introduction
+## 🌱 Overview
 Iris most often refers to:
 
 Iris (anatomy), part of the eye
@@ -32,11 +33,13 @@ Iris (plant), a genus of flowering plants
 Iris (given name), a feminine given name, and a list of people so named
 Iris or IRIS may also refer to:
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=36744)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=36744)
 
-## Care Guide
+## 🧤 Care Instructions
 This plant thrives in consistently wet, nutrient-rich soils, mirroring its native wetland habitats. It prefers full sun to partial shade and benefits from regular fertilization during its growing season to support robust growth.
 
-### Fertilizer
+### 🧪 Fertilizer
 Moderate to high; thrives in rich, organic soil
 
+---
+**Family:** [Uncategorized](/uncategorized)

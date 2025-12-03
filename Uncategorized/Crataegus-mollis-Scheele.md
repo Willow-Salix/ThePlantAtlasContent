@@ -1,37 +1,40 @@
 ---
-title: Downy Hawthorn
-description: Crataegus mollis Scheele
+title: "Downy Hawthorn"
+description: "Care guide for Crataegus mollis Scheele"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/crataegus-mollis-scheele
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Downy Hawthorn
-
-*Crataegus mollis Scheele* • **Uncategorized**
+### *Crataegus mollis Scheele*
 
 ![Downy Hawthorn](https://upload.wikimedia.org/wikipedia/commons/4/40/Crataegus-mollis-flowers.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Eastern and Central North America, including parts of the United States and Canada. |
-| **Climate** | Temperate Broadleaf and Mixed Forests |
-| **Sunlight** | Prefers full sun for optimal flowering and fruiting, but can tolerate partial shade. |
-| **Watering** | Requires moderate and consistent watering, especially when young or during prolonged dry periods. Established plants exhibit moderate drought tolerance. |
+| **🌍 Origin** | Eastern and Central North America, including parts of the United States and Canada. |
+| **🌡️ Climate** | Temperate Broadleaf and Mixed Forests |
+| **☀️ Light** | Prefers full sun for optimal flowering and fruiting, but can tolerate partial shade. |
+| **💧 Water** | Requires moderate and consistent watering, especially when young or during prolonged dry periods. Established plants exhibit moderate drought tolerance. |
 
-## Introduction
+## 🌱 Overview
 Crataegus mollis, known as downy hawthorn or red hawthorn, is a species of plant that occurs in eastern North America from southeastern North Dakota east to Nova Scotia and southwest to eastern Texas. The range of this species is from southern Ontario and Michigan to eastern North Dakota and southward to Denison, Texas, and Arizona. This tree inhabits wooded bottomlands, the prairie border, and the midwest savanna understorey.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=1422353)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=1422353)
 
-## Care Guide
+## 🧤 Care Instructions
 This resilient tree thrives in temperate climates, preferring full sun to partial shade and fertile, well-drained soil. Provide moderate watering, particularly during establishment and dry spells, and fertilize sparingly if soil nutrients are low.
 
-### Fertilizer
+### 🧪 Fertilizer
 Generally not a heavy feeder; thrives in fertile, well-drained soil. A balanced, all-purpose fertilizer can be applied annually in spring if soil quality is poor.
 
+---
+**Family:** [Uncategorized](/uncategorized)

@@ -1,35 +1,38 @@
 ---
-title: Palo de cera
-description: Morella holdridgeana (Lundell) Kartesz
+title: "Palo de cera"
+description: "Care guide for Morella holdridgeana (Lundell) Kartesz"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/morella-holdridgeana-lundell-kartesz
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Palo de cera
+### *Morella holdridgeana (Lundell) Kartesz*
 
-*Morella holdridgeana (Lundell) Kartesz* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Central America (Costa Rica, Panama) |
-| **Climate** | Tropical Montane Cloud Forest |
-| **Sunlight** | Bright indirect light to partial sun |
-| **Watering** | Keep soil consistently moist but well-draining; prefers high humidity. |
+| **🌍 Origin** | Central America (Costa Rica, Panama) |
+| **🌡️ Climate** | Tropical Montane Cloud Forest |
+| **☀️ Light** | Bright indirect light to partial sun |
+| **💧 Water** | Keep soil consistently moist but well-draining; prefers high humidity. |
 
-## Introduction
+## 🌱 Overview
 Morella may refer to:
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=28190665)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=28190665)
 
-## Care Guide
+## 🧤 Care Instructions
 This cloud forest native thrives in consistently moist, well-draining soil and high humidity. Provide bright indirect light to partial sun and fertilize lightly during its active growth period, recognizing its adaptation to nutrient-varied environments.
 
-### Fertilizer
+### 🧪 Fertilizer
 Light fertilization during the growing season; can tolerate poorer soils due to nitrogen-fixing capabilities.
 
+---
+**Family:** [Uncategorized](/uncategorized)

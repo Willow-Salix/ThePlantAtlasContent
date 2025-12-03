@@ -1,28 +1,29 @@
 ---
-title: Showy Agalinis
-description: Gerardia pulcherrima Pennell
+title: "Showy Agalinis"
+description: "Care guide for Gerardia pulcherrima Pennell"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/gerardia-pulcherrima-pennell
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Showy Agalinis
+### *Gerardia pulcherrima Pennell*
 
-*Gerardia pulcherrima Pennell* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (coastal plain from Virginia to Florida and west to Louisiana) |
-| **Climate** | Humid Subtropical (specifically moist pine flatwoods, savannas, and bogs) |
-| **Sunlight** | Full sun to partial sun, requiring good light exposure for optimal growth and flowering. |
-| **Watering** | Requires consistently moist to wet soil, mimicking its native habitat; avoid drought conditions, but ensure good drainage. |
+| **🌍 Origin** | Southeastern United States (coastal plain from Virginia to Florida and west to Louisiana) |
+| **🌡️ Climate** | Humid Subtropical (specifically moist pine flatwoods, savannas, and bogs) |
+| **☀️ Light** | Full sun to partial sun, requiring good light exposure for optimal growth and flowering. |
+| **💧 Water** | Requires consistently moist to wet soil, mimicking its native habitat; avoid drought conditions, but ensure good drainage. |
 
-## Introduction
+## 🌱 Overview
 Gerardia may refer to:
 
 Gerardia L., a plant genus now a synonym of Stenandrium Nees in family Acanthaceae
@@ -35,11 +36,13 @@ Agalinis purpurea
 Agalinis skinneriana
 Agalinis tenuifolia
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=48731109)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=48731109)
 
-## Care Guide
+## 🧤 Care Instructions
 This plant thrives in full to partial sun and requires consistently moist, well-drained soil, reflecting its native humid subtropical environment. As a hemiparasite often found in moderately fertile savannas, it benefits from moderate to low fertilizer application, with rich soils potentially being detrimental.
 
-### Fertilizer
+### 🧪 Fertilizer
 Moderate to low; native habitats are often sandy and moderately fertile. Over-fertilization should be avoided, especially as it is a hemiparasite.
 
+---
+**Family:** [Uncategorized](/uncategorized)

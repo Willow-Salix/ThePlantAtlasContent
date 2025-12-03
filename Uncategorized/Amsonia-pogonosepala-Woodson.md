@@ -1,30 +1,31 @@
 ---
-title: Woodson's Blue Star
-description: Amsonia pogonosepala Woodson
+title: "Woodson's Blue Star"
+description: "Care guide for Amsonia pogonosepala Woodson"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/amsonia-pogonosepala-woodson
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Woodson's Blue Star
-
-*Amsonia pogonosepala Woodson* • **Uncategorized**
+### *Amsonia pogonosepala Woodson*
 
 ![Woodson's Blue Star](https://upload.wikimedia.org/wikipedia/commons/6/6f/Amsonia-tabernaemontana-flowers.JPG)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | South-central United States (Arkansas, Louisiana, Oklahoma, Texas) |
-| **Climate** | Humid Subtropical (found in open woodlands, prairies, and moist areas) |
-| **Sunlight** | Full sun to partial shade; prefers some afternoon shade in the hottest climates. |
-| **Watering** | Regular watering to maintain consistently moist soil, especially during dry periods; established plants exhibit moderate drought tolerance. |
+| **🌍 Origin** | South-central United States (Arkansas, Louisiana, Oklahoma, Texas) |
+| **🌡️ Climate** | Humid Subtropical (found in open woodlands, prairies, and moist areas) |
+| **☀️ Light** | Full sun to partial shade; prefers some afternoon shade in the hottest climates. |
+| **💧 Water** | Regular watering to maintain consistently moist soil, especially during dry periods; established plants exhibit moderate drought tolerance. |
 
-## Introduction
+## 🌱 Overview
 Amsonia is a genus of flowering plants in the dogbane family, Apocynaceae, first described as a genus in 1788. It is native primarily to North America with one species in East Asia and another in the eastern Mediterranean. It was named in honor of the American physician John Amson. Members of the genus are commonly known as bluestars.
 
 Species
@@ -47,11 +48,13 @@ Amsonia tabernaemontana Walter – eastern bluestar – S + C + E United States
 Amsonia tharpii Woodson – feltleaf bluestar – W Texas, SE New Mexico
 Amsonia tomentosa Torr. & Frém. – woolly bluestar – SW US; Chihuahua
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=7148686)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=7148686)
 
-## Care Guide
+## 🧤 Care Instructions
 This resilient perennial thrives in humid subtropical climates, preferring locations with full sun to partial shade. It requires regular watering for optimal growth, particularly in dry conditions, but is quite self-sufficient once established, needing minimal fertilizer.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low; a light, balanced slow-release fertilizer in early spring is sufficient if soil is poor, otherwise generally not needed.
 
+---
+**Family:** [Uncategorized](/uncategorized)

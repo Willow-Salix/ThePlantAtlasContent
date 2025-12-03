@@ -1,37 +1,40 @@
 ---
-title: Lipochaeta Profusa Sherff
-description: Lipochaeta profusa Sherff
+title: "Lipochaeta Profusa Sherff"
+description: "Care guide for Lipochaeta profusa Sherff"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/lipochaeta-profusa-sherff
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Lipochaeta Profusa Sherff
-
-*Lipochaeta profusa Sherff* • **Uncategorized**
+### *Lipochaeta profusa Sherff*
 
 ![Lipochaeta Profusa Sherff](https://upload.wikimedia.org/wikipedia/commons/0/0e/Lipochaeta_succulenta_%285491175146%29.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Hawaiian Islands (Maui, Molokai) |
-| **Climate** | Tropical Dry Shrubland/Forest, Coastal Mesic Environments |
-| **Sunlight** | Full sun to partial sun; prefers bright, direct light for several hours daily. |
-| **Watering** | Moderate to low; water deeply when the top 1-2 inches of soil are dry, allowing periods of drought between waterings. Requires excellent drainage. |
+| **🌍 Origin** | Hawaiian Islands (Maui, Molokai) |
+| **🌡️ Climate** | Tropical Dry Shrubland/Forest, Coastal Mesic Environments |
+| **☀️ Light** | Full sun to partial sun; prefers bright, direct light for several hours daily. |
+| **💧 Water** | Moderate to low; water deeply when the top 1-2 inches of soil are dry, allowing periods of drought between waterings. Requires excellent drainage. |
 
-## Introduction
+## 🌱 Overview
 Lipochaeta, common name nehe, is a genus of flowering plants in the family Asteraceae that is endemic to Hawaii.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=24721519)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=24721519)
 
-## Care Guide
+## 🧤 Care Instructions
 This Hawaiian endemic thrives in bright, sunny conditions and requires well-draining soil, reflecting its native dry shrubland habitat. Water thoroughly but infrequently, allowing the soil to dry out between waterings, and provide minimal fertilization. Ensure good air circulation to prevent fungal issues.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to moderate; adapted to nutrient-poor, rocky soils. A light application of balanced, slow-release fertilizer once or twice during the growing season is sufficient.
 
+---
+**Family:** [Uncategorized](/uncategorized)

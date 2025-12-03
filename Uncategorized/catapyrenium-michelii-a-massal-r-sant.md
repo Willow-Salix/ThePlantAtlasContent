@@ -1,0 +1,40 @@
+---
+title: "Michel's Earth Lichen"
+description: "Care guide for Catapyrenium michelii (A. Massal.) R. Sant."
+published: true
+date: 2025-12-02
+editor: markdown
+path: uncategorized/catapyrenium-michelii-a-massal-r-sant
+tags:
+  - Uncategorized
+  - Flora
+  - Auto-Generated
+---
+
+# Michel's Earth Lichen
+### *Catapyrenium michelii (A. Massal.) R. Sant.*
+
+![Michel's Earth Lichen](https://upload.wikimedia.org/wikipedia/commons/f/f6/Catapyrenium_daedaleum.jpg)
+
+## 📋 Quick Specs
+
+| Feature | Detail |
+| :--- | :--- |
+| **🌍 Origin** | Widespread in temperate to boreal regions of the Northern Hemisphere, including parts of Europe (e.g., Alps, Scandinavia) and North America (e.g., Rocky Mountains, Pacific Northwest). |
+| **🌡️ Climate** | Temperate Montane and Boreal Forest understory, often found in humid microclimates. |
+| **☀️ Light** | Low to moderate, indirect light. Protect from direct sun, preferring filtered light conditions often found under a canopy or near shaded rocks/mosses. |
+| **💧 Water** | Requires high ambient humidity and a consistently moist, but not waterlogged, substrate. Mimic frequent rainfall or misting, allowing for good air circulation to prevent mold. |
+
+## 🌱 Overview
+Catapyrenium is a genus of squamulose lichens in the family Verrucariaceae. These small lichens grow as clusters of tiny scales (squamules that lie flat against rocks and soil, often in dry or disturbed habitats. The genus includes about 18 species found worldwide, particularly in arid and semi-arid regions where they help stabilize soil surfaces.
+
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=22532422)
+
+## 🧤 Care Instructions
+Michel's Earth Lichen thrives in cool, humid environments with low to moderate indirect light. It requires a consistently moist substrate and high ambient humidity, but no traditional fertilization is necessary. Focus on replicating its shaded, damp, natural habitat.
+
+### 🧪 Fertilizer
+No conventional fertilizer needed. Lichens obtain nutrients from the air and minerals in their substrate, and standard plant fertilizers can be harmful.
+
+---
+**Family:** [Uncategorized](/uncategorized)

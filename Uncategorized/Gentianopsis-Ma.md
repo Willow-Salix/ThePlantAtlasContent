@@ -1,39 +1,42 @@
 ---
-title: Fringed Gentian
-description: Gentianopsis Ma
+title: "Fringed Gentian"
+description: "Care guide for Gentianopsis Ma"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/gentianopsis-ma
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Fringed Gentian
-
-*Gentianopsis Ma* • **Uncategorized**
+### *Gentianopsis Ma*
 
 ![Fringed Gentian](https://upload.wikimedia.org/wikipedia/commons/5/5d/Gentianopsis_ciliata_150907.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Eastern North America (primarily United States and Canada) |
-| **Climate** | Temperate Moist Meadow/Wetland |
-| **Sunlight** | Full sun to partial shade, preferring full sun for best flowering. Needs open exposure, not deep shade. |
-| **Watering** | Consistently moist soil, never allowing it to dry out, especially during growth and flowering. Requires frequent watering to mimic its natural wetland habitat. |
+| **🌍 Origin** | Eastern North America (primarily United States and Canada) |
+| **🌡️ Climate** | Temperate Moist Meadow/Wetland |
+| **☀️ Light** | Full sun to partial shade, preferring full sun for best flowering. Needs open exposure, not deep shade. |
+| **💧 Water** | Consistently moist soil, never allowing it to dry out, especially during growth and flowering. Requires frequent watering to mimic its natural wetland habitat. |
 
-## Introduction
+## 🌱 Overview
 Gentianopsis is a genus of flowering plants in the gentian family known commonly as fringed gentians. These are similar to the gentians of genus Gentiana. Most have flowers which are blue to purple in color. They may be annual or perennial. They are native to Eurasia and temperate North America.
 
 
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=16189374)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=16189374)
 
-## Care Guide
+## 🧤 Care Instructions
 To care for the Fringed Gentian, provide consistent moisture, ensuring the soil never dries out, and site it in full sun to partial shade. These plants have low fertilizer requirements; avoid over-fertilizing to promote healthy growth and abundant blooms.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low fertilizer needs. Typically thrives in nutrient-poor to moderately fertile soils. Over-fertilization can be detrimental.
 
+---
+**Family:** [Uncategorized](/uncategorized)

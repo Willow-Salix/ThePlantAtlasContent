@@ -1,28 +1,29 @@
 ---
-title: Pigweed
-description: Amaranthus ×tucsonensis Henrickson
+title: "Pigweed"
+description: "Care guide for Amaranthus ×tucsonensis Henrickson"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/amaranthus-tucsonensis-henrickson
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Pigweed
+### *Amaranthus ×tucsonensis Henrickson*
 
-*Amaranthus ×tucsonensis Henrickson* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southwestern United States (specifically Arizona) |
-| **Climate** | Arid Scrubland (Sonoran Desert) |
-| **Sunlight** | Full sun, high light exposure (6+ hours direct sunlight daily) |
-| **Watering** | Infrequent watering; allow soil to dry completely between waterings. Highly drought-tolerant. |
+| **🌍 Origin** | Southwestern United States (specifically Arizona) |
+| **🌡️ Climate** | Arid Scrubland (Sonoran Desert) |
+| **☀️ Light** | Full sun, high light exposure (6+ hours direct sunlight daily) |
+| **💧 Water** | Infrequent watering; allow soil to dry completely between waterings. Highly drought-tolerant. |
 
-## Introduction
+## 🌱 Overview
 Pigweed can mean any of a number of weedy plants which may be used as pig fodder:
 
 Amaranthus species
@@ -37,11 +38,13 @@ Chenopodium album white goosefoot
 Polygonum aviculare
 Portulaca species
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=1595280)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=1595280)
 
-## Care Guide
+## 🧤 Care Instructions
 This hybrid pigweed, native to the Sonoran Desert, thrives in full sun and requires very little water, tolerating drought conditions well. It is adapted to less fertile soils, meaning frequent fertilization is generally unnecessary.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to moderate; generally not required unless soil is extremely poor. Can benefit from a balanced fertilizer once or twice during the growing season in very lean soils.
 
+---
+**Family:** [Uncategorized](/uncategorized)

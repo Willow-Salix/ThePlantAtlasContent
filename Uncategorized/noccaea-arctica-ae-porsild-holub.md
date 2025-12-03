@@ -1,0 +1,40 @@
+---
+title: "Arctic Pennycress"
+description: "Care guide for Noccaea arctica (A.E. Porsild) Holub"
+published: true
+date: 2025-12-02
+editor: markdown
+path: uncategorized/noccaea-arctica-ae-porsild-holub
+tags:
+  - Uncategorized
+  - Flora
+  - Auto-Generated
+---
+
+# Arctic Pennycress
+### *Noccaea arctica (A.E. Porsild) Holub*
+
+![Arctic Pennycress](https://upload.wikimedia.org/wikipedia/commons/2/20/Noccaea_goesingensis_sl14.jpg)
+
+## 📋 Quick Specs
+
+| Feature | Detail |
+| :--- | :--- |
+| **🌍 Origin** | Arctic regions of North America (Alaska, Canada, Greenland) and parts of Siberia |
+| **🌡️ Climate** | Arctic Tundra |
+| **☀️ Light** | Full sun, tolerating the intense but low-angle sunlight typical of high latitudes during its short growing season. |
+| **💧 Water** | Consistently moist soil during the active growing period, allowing the surface to dry slightly between waterings, mimicking snowmelt and boggy conditions, but ensuring good drainage. |
+
+## 🌱 Overview
+Noccaea is a problematic genus of flowering plants in the family Brassicaceae, native to temperate areas of western North America, southern South America, northern Africa, Europe and Asia.
+
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=64587404)
+
+## 🧤 Care Instructions
+Arctic Pennycress thrives in cool, exposed conditions with full sun during its brief growing period. It prefers consistently moist, well-draining soil and requires minimal fertilization, reflecting its adaptation to nutrient-poor tundra environments.
+
+### 🧪 Fertilizer
+Very low to no fertilizer needed, as tundra soils are typically poor in nutrients and high in organic matter that decomposes slowly.
+
+---
+**Family:** [Uncategorized](/uncategorized)

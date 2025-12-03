@@ -1,28 +1,29 @@
 ---
-title: Tarweed
-description: Madia Molina
+title: "Tarweed"
+description: "Care guide for Madia Molina"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/madia-molina
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Tarweed
+### *Madia Molina*
 
-*Madia Molina* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Western North America (California, Oregon in USA; Baja California in Mexico) |
-| **Climate** | Mediterranean (Grasslands, Open Fields) |
-| **Sunlight** | Full Sun (6+ hours of direct sunlight daily) |
-| **Watering** | Infrequent to moderate; allow soil to dry out completely between waterings, especially after establishment. Requires more moisture during initial growth. |
+| **🌍 Origin** | Western North America (California, Oregon in USA; Baja California in Mexico) |
+| **🌡️ Climate** | Mediterranean (Grasslands, Open Fields) |
+| **☀️ Light** | Full Sun (6+ hours of direct sunlight daily) |
+| **💧 Water** | Infrequent to moderate; allow soil to dry out completely between waterings, especially after establishment. Requires more moisture during initial growth. |
 
-## Introduction
+## 🌱 Overview
 Tarweed or tarplant is a common name for several plants and may refer to:
 
 Various plants in the tribe Madieae of the family Asteraceae:
@@ -39,11 +40,13 @@ Madia
 Amsinckia lycopsoides
 Cuphea viscosissima
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=12159383)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=12159383)
 
-## Care Guide
+## 🧤 Care Instructions
 Madia Molina, a hardy annual, prefers full sun and thrives in lean, well-draining soils typical of its Mediterranean grassland origins. Water sparingly once established, allowing the soil to dry out between waterings, and avoid rich fertilization to best mimic its natural habitat.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to none; thrives in nutrient-poor soils. Excessive fertilization can be detrimental.
 
+---
+**Family:** [Uncategorized](/uncategorized)

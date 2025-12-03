@@ -1,30 +1,31 @@
 ---
-title: Needleleaf Waternymph
-description: Najas filifolia Haynes
+title: "Needleleaf Waternymph"
+description: "Care guide for Najas filifolia Haynes"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/najas-filifolia-haynes
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Needleleaf Waternymph
-
-*Najas filifolia Haynes* • **Uncategorized**
+### *Najas filifolia Haynes*
 
 ![Needleleaf Waternymph](https://upload.wikimedia.org/wikipedia/commons/c/ca/Illustration_Najas_marina0.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (e.g., Florida, Georgia, Alabama, Mississippi, Louisiana, Texas) |
-| **Climate** | Humid Subtropical (aquatic freshwater) |
-| **Sunlight** | Moderate to high light (full to partial sun exposure in water) |
-| **Watering** | Constant submersion in freshwater |
+| **🌍 Origin** | Southeastern United States (e.g., Florida, Georgia, Alabama, Mississippi, Louisiana, Texas) |
+| **🌡️ Climate** | Humid Subtropical (aquatic freshwater) |
+| **☀️ Light** | Moderate to high light (full to partial sun exposure in water) |
+| **💧 Water** | Constant submersion in freshwater |
 
-## Introduction
+## 🌱 Overview
 Najas, the water-nymphs or naiads, is a genus of aquatic plants. It is cosmopolitan in distribution, first described for modern science by Linnaeus in 1753. Until 1997, it was rarely placed in the Hydrocharitaceae, and was often taken as constituting (by itself) the family Najadaceae.
 The APG II system, of 2003 (unchanged from the APG system, of 1998), places the genus in family Hydrocharitaceae, in the order Alismatales of the monocots.
 An infrageneric classification of two sections is proposed: Section Americanae and sect. Caulinia.
@@ -69,11 +70,13 @@ Najas testui Rendle - western + central Africa
 Najas welwitschii Rendle - tropical Africa, western India
 Najas wrightiana A.Braun - Mexico, Central America, Cuba, Bahamas, Venezuela; naturalized in Florida
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=4047039)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=4047039)
 
-## Care Guide
+## 🧤 Care Instructions
 The Needleleaf Waternymph is a submerged aquatic plant native to the humid subtropical regions of the southeastern United States. It requires constant submersion in freshwater and thrives in moderate to high light conditions. Ensure moderate nutrient levels for optimal growth, either through a rich substrate or liquid aquatic fertilizer.
 
-### Fertilizer
+### 🧪 Fertilizer
 Moderate nutrient levels; benefits from nutrient-rich substrate or occasional aquatic plant fertilizer in the water column.
 
+---
+**Family:** [Uncategorized](/uncategorized)

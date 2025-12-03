@@ -1,30 +1,31 @@
 ---
-title: Fringed Bluestar
-description: Amsonia glaberrima Woodson
+title: "Fringed Bluestar"
+description: "Care guide for Amsonia glaberrima Woodson"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/amsonia-glaberrima-woodson
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Fringed Bluestar
-
-*Amsonia glaberrima Woodson* • **Uncategorized**
+### *Amsonia glaberrima Woodson*
 
 ![Fringed Bluestar](https://upload.wikimedia.org/wikipedia/commons/6/6f/Amsonia-tabernaemontana-flowers.JPG)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern and South-Central United States (e.g., Arkansas, Louisiana, Oklahoma, Texas) |
-| **Climate** | Temperate to Humid Subtropical, commonly found in open woodlands, prairies, savannas, and rocky glades. |
-| **Sunlight** | Thrives in full sun for optimal flowering and robust growth. Tolerates partial shade, especially in hotter climates where some afternoon shade can prevent leaf scorch. |
-| **Watering** | Requires moderate watering, allowing the soil to dry out slightly between watering sessions. Once established, it is highly drought-tolerant, performing well even with infrequent watering during dry spells. |
+| **🌍 Origin** | Southeastern and South-Central United States (e.g., Arkansas, Louisiana, Oklahoma, Texas) |
+| **🌡️ Climate** | Temperate to Humid Subtropical, commonly found in open woodlands, prairies, savannas, and rocky glades. |
+| **☀️ Light** | Thrives in full sun for optimal flowering and robust growth. Tolerates partial shade, especially in hotter climates where some afternoon shade can prevent leaf scorch. |
+| **💧 Water** | Requires moderate watering, allowing the soil to dry out slightly between watering sessions. Once established, it is highly drought-tolerant, performing well even with infrequent watering during dry spells. |
 
-## Introduction
+## 🌱 Overview
 Amsonia is a genus of flowering plants in the dogbane family, Apocynaceae, first described as a genus in 1788. It is native primarily to North America with one species in East Asia and another in the eastern Mediterranean. It was named in honor of the American physician John Amson. Members of the genus are commonly known as bluestars.
 
 Species
@@ -47,11 +48,13 @@ Amsonia tabernaemontana Walter – eastern bluestar – S + C + E United States
 Amsonia tharpii Woodson – feltleaf bluestar – W Texas, SE New Mexico
 Amsonia tomentosa Torr. & Frém. – woolly bluestar – SW US; Chihuahua
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=7148686)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=7148686)
 
-## Care Guide
+## 🧤 Care Instructions
 Fringed Bluestar is a hardy plant best suited for full sun to partial shade in temperate to humid subtropical regions. It needs moderate watering during its establishment phase, becoming very drought-tolerant as it matures. This plant requires minimal fertilization, thriving in average, well-drained soils.
 
-### Fertilizer
+### 🧪 Fertilizer
 Has low fertilizer requirements. In average to lean soils, an annual application of compost or a balanced, slow-release granular fertilizer in early spring is sufficient. Avoid excessive fertilization as it can lead to leggy growth.
 
+---
+**Family:** [Uncategorized](/uncategorized)

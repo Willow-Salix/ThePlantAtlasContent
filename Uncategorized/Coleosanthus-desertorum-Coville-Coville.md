@@ -1,30 +1,33 @@
 ---
-title: Desert Brickellbush
-description: Coleosanthus desertorum (Coville) Coville
+title: "Desert Brickellbush"
+description: "Care guide for Coleosanthus desertorum (Coville) Coville"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/coleosanthus-desertorum-coville-coville
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Desert Brickellbush
+### *Coleosanthus desertorum (Coville) Coville*
 
-*Coleosanthus desertorum (Coville) Coville* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southwestern United States (Arizona, California, Nevada, Utah) |
-| **Climate** | Arid Desert Scrubland |
-| **Sunlight** | Full sun, requiring at least 6-8 hours of direct sunlight daily. |
-| **Watering** | Extremely drought-tolerant; water very infrequently, allowing soil to dry out completely between waterings. Overwatering is detrimental. |
+| **🌍 Origin** | Southwestern United States (Arizona, California, Nevada, Utah) |
+| **🌡️ Climate** | Arid Desert Scrubland |
+| **☀️ Light** | Full sun, requiring at least 6-8 hours of direct sunlight daily. |
+| **💧 Water** | Extremely drought-tolerant; water very infrequently, allowing soil to dry out completely between waterings. Overwatering is detrimental. |
 
-## Care Guide
+## 🧤 Care Instructions
 This desert native thrives in full sun and well-draining soil, requiring minimal water and fertilizer. Emphasize infrequent watering to mimic its arid natural habitat and prevent root rot.
 
-### Fertilizer
+### 🧪 Fertilizer
 Very low to no fertilizer needed. Thrives in lean, well-draining soils.
 
+---
+**Family:** [Uncategorized](/uncategorized)

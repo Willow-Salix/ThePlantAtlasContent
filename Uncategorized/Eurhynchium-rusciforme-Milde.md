@@ -1,30 +1,31 @@
 ---
-title: Streambank Feather-moss
-description: Eurhynchium rusciforme Milde
+title: "Streambank Feather-moss"
+description: "Care guide for Eurhynchium rusciforme Milde"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/eurhynchium-rusciforme-milde
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Streambank Feather-moss
-
-*Eurhynchium rusciforme Milde* • **Uncategorized**
+### *Eurhynchium rusciforme Milde*
 
 ![Streambank Feather-moss](https://upload.wikimedia.org/wikipedia/commons/5/5d/Moss_cobroft_rest_area.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Temperate regions across the Northern Hemisphere, including Europe, Asia, and North America. |
-| **Climate** | Temperate Riparian (Aquatic) |
-| **Sunlight** | Low light to partial shade; avoid direct, intense sunlight which can cause desiccation. |
-| **Watering** | Constantly moist to submerged; requires high humidity and consistent water flow or frequent splashing, cannot tolerate drying out. |
+| **🌍 Origin** | Temperate regions across the Northern Hemisphere, including Europe, Asia, and North America. |
+| **🌡️ Climate** | Temperate Riparian (Aquatic) |
+| **☀️ Light** | Low light to partial shade; avoid direct, intense sunlight which can cause desiccation. |
+| **💧 Water** | Constantly moist to submerged; requires high humidity and consistent water flow or frequent splashing, cannot tolerate drying out. |
 
-## Introduction
+## 🌱 Overview
 Eurhynchium is a genus of mosses belonging to the family Brachytheciaceae.
 The genus was first described by Bruch and Wilhelm Philippe Schimper in 1854.
 The genus has cosmopolitan distribution.
@@ -36,11 +37,13 @@ Eurhynchium pulchellum
 Eurhynchium striatum
 Eurhynchium swartzii
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=66457561)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=66457561)
 
-## Care Guide
+## 🧤 Care Instructions
 This aquatic moss thrives in cool, constantly moist to submerged conditions with low light to partial shade, mimicking its natural streambank habitat. It requires high humidity and very minimal nutrient supplementation, relying on ambient minerals for growth.
 
-### Fertilizer
+### 🧪 Fertilizer
 Very low to none; mosses extract nutrients from water and air, high fertilizer concentrations can be detrimental.
 
+---
+**Family:** [Uncategorized](/uncategorized)

@@ -1,30 +1,31 @@
 ---
-title: Paspalum Haumanii
-description: Paspalum haumanii Parodi
+title: "Paspalum Haumanii"
+description: "Care guide for Paspalum haumanii Parodi"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/paspalum-haumanii-parodi
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Paspalum Haumanii
-
-*Paspalum haumanii Parodi* • **Uncategorized**
+### *Paspalum haumanii Parodi*
 
 ![Paspalum Haumanii](https://upload.wikimedia.org/wikipedia/commons/6/66/Paspalum_distichum_01.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | South America (Argentina, Brazil, Paraguay, Uruguay) |
-| **Climate** | Subtropical Moist Grassland |
-| **Sunlight** | Full sun. Requires at least 6-8 hours of direct sunlight daily to thrive, consistent with open grassland environments. |
-| **Watering** | Regular watering to maintain consistently moist soil, especially during active growth and dry periods. Tolerant of short dry spells once established. |
+| **🌍 Origin** | South America (Argentina, Brazil, Paraguay, Uruguay) |
+| **🌡️ Climate** | Subtropical Moist Grassland |
+| **☀️ Light** | Full sun. Requires at least 6-8 hours of direct sunlight daily to thrive, consistent with open grassland environments. |
+| **💧 Water** | Regular watering to maintain consistently moist soil, especially during active growth and dry periods. Tolerant of short dry spells once established. |
 
-## Introduction
+## 🌱 Overview
 Paspalum is a genus of plants in the grass family.
 The group is widespread across much of Asia, Africa, Australia, and the Americas. Commonly known as paspalum, bahiagrasses, crowngrasses or dallis grasses, many of the species are tall perennial New World grasses. They are warm-season C4 grasses and are most diverse in subtropical and tropical regions.
 Paspalum scrobiculatum (koda, varuka, varuku, etc.) is a millet locally grown as food grain. Some species, such as bahiagrass (P. notatum) and P. nicorae, are grown for pasturage, especially with the perennial forage peanut (Arachis glabrata) as a companion crop. Bahiagrass has also some significance as a honey plant.
@@ -34,11 +35,13 @@ The ergot Claviceps paspali is a sac fungus that grows on Paspalum, producing er
 Tussock paspalum (P. quadrifarium) is considered a noxious weed in Australia. The term “paspalum” without qualification in Australia refers to the common lawn weed P. dilatatum.  Australia has five native  and approximately sixteen naturalised species.
 Daikin Park, the home ballpark of the Houston Astros, has Platinum TE Paspalum as its field surface.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=1583759)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=1583759)
 
-## Care Guide
+## 🧤 Care Instructions
 Paspalum haumanii thrives in full sun and prefers consistently moist soil, typical of its native subtropical grasslands. It benefits from moderate fertility and regular watering, though it can tolerate brief dry periods once established, making it a relatively robust grass.
 
-### Fertilizer
+### 🧪 Fertilizer
 Moderate fertility. Benefits from a balanced, slow-release fertilizer application once or twice a year during the growing season, common for grassland species.
 
+---
+**Family:** [Uncategorized](/uncategorized)

@@ -1,0 +1,40 @@
+---
+title: "Grimmia Indianensis"
+description: "Care guide for Grimmia indianensis (Sayre) H.A. Crum"
+published: true
+date: 2025-12-02
+editor: markdown
+path: uncategorized/grimmia-indianensis-sayre-ha-crum
+tags:
+  - Uncategorized
+  - Flora
+  - Auto-Generated
+---
+
+# Grimmia Indianensis
+### *Grimmia indianensis (Sayre) H.A. Crum*
+
+![Grimmia Indianensis](https://upload.wikimedia.org/wikipedia/commons/2/24/Grimmia_pulvinata_2004.11.14_14.50.37.jpg)
+
+## 📋 Quick Specs
+
+| Feature | Detail |
+| :--- | :--- |
+| **🌍 Origin** | Indiana and Kentucky, USA |
+| **🌡️ Climate** | Temperate Forests (Rocky Outcrops) |
+| **☀️ Light** | Bright indirect to direct sun. Thrives in exposed, well-lit conditions on rocks. |
+| **💧 Water** | Prefers consistent moisture but can tolerate periods of dryness. Allow substrate to dry slightly between waterings. Requires good drainage and benefits from high ambient humidity. |
+
+## 🌱 Overview
+Grimmia is a genus of mosses, originally named by Jakob Friedrich Ehrhart in honour of Johann Friedrich Carl Grimm, a physician and botanist from Gotha, Germany.
+
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=27994934)
+
+## 🧤 Care Instructions
+Grimmia indianensis thrives in bright light conditions, mimicking its native rocky outcrops. It requires consistent moisture but tolerates brief dry spells, necessitating good drainage and often benefits from high humidity. As a moss, its nutrient needs are minimal, making fertilizer largely unnecessary.
+
+### 🧪 Fertilizer
+Very low. Minimal to no fertilization needed. If desired, use a highly diluted, balanced liquid fertilizer sparingly (once or twice a year at most).
+
+---
+**Family:** [Uncategorized](/uncategorized)

@@ -1,30 +1,31 @@
 ---
-title: Payson's Twinpod
-description: Physaria australis (Payson) Rollins
+title: "Payson's Twinpod"
+description: "Care guide for Physaria australis (Payson) Rollins"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/physaria-australis-payson-rollins
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Payson's Twinpod
-
-*Physaria australis (Payson) Rollins* • **Uncategorized**
+### *Physaria australis (Payson) Rollins*
 
 ![Payson's Twinpod](https://upload.wikimedia.org/wikipedia/commons/9/94/Physaria_chambersii_5.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southwestern United States (Colorado, Utah, Wyoming) |
-| **Climate** | Arid to Semi-Arid Temperate Shrubland/Grassland |
-| **Sunlight** | Full sun, requiring at least 6-8 hours of direct sunlight daily due to its open, exposed native habitat. |
-| **Watering** | Very low water needs; thrives in dry conditions and is highly drought-tolerant. Water infrequently, allowing soil to dry out completely between waterings, especially in well-drained, rocky soils. |
+| **🌍 Origin** | Southwestern United States (Colorado, Utah, Wyoming) |
+| **🌡️ Climate** | Arid to Semi-Arid Temperate Shrubland/Grassland |
+| **☀️ Light** | Full sun, requiring at least 6-8 hours of direct sunlight daily due to its open, exposed native habitat. |
+| **💧 Water** | Very low water needs; thrives in dry conditions and is highly drought-tolerant. Water infrequently, allowing soil to dry out completely between waterings, especially in well-drained, rocky soils. |
 
-## Introduction
+## 🌱 Overview
 Physaria is a genus of flowering plants in the family Brassicaceae. Many species are known generally as twinpods, bladderpods, or lesquerella. They are native to the Americas, with many species endemic to western North America. They are densely hairy annual and perennial herbs often growing prostrate or decumbent, along the ground in patches or clumps. They bear inflorescences of bright yellow flowers. The fruit is often notched deeply, dividing into twin sections, giving the genus its common name.
 Bladderpod oil is extracted from the seeds of Physaria fendleri and certain other species in the genus.
 Due to the presence of both annual and perennial herbaceous members, this genus has been used as a model for allocation pattern comparisons between the annual and perennial life cycle.
@@ -141,11 +142,13 @@ Physaria acutifolia  Rydb.
  Physaria vitulifera  Rydb.
  Physaria wyndii  (Rollins & E.A.Shaw) O'Kane & Al-Shehbaz
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=26102091)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=26102091)
 
-## Care Guide
+## 🧤 Care Instructions
 Payson's Twinpod requires full sun exposure and thrives in arid, well-drained conditions. It is extremely drought-tolerant, needing infrequent watering, and performs best in lean, rocky soils without the need for significant fertilization.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to no fertilizer needed. Native to lean, rocky, and shale soils, it is adapted to nutrient-poor conditions. If used, a very dilute, balanced slow-release formula can be applied sparingly.
 
+---
+**Family:** [Uncategorized](/uncategorized)

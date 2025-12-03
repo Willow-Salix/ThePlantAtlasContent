@@ -1,30 +1,31 @@
 ---
-title: Tsukushi Wheatgrass
-description: Agropyron tsukushiense (Honda) Ohwi
+title: "Tsukushi Wheatgrass"
+description: "Care guide for Agropyron tsukushiense (Honda) Ohwi"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/agropyron-tsukushiense-honda-ohwi
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Tsukushi Wheatgrass
-
-*Agropyron tsukushiense (Honda) Ohwi* • **Uncategorized**
+### *Agropyron tsukushiense (Honda) Ohwi*
 
 ![Tsukushi Wheatgrass](https://upload.wikimedia.org/wikipedia/commons/c/c0/Agropyron_cristatum_illustration_%2801%29.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | East Asia (primarily Japan, Korea, and parts of China) |
-| **Climate** | Temperate Grassland |
-| **Sunlight** | Full sun (6+ hours direct sunlight daily) due to its native habitat in open, exposed grasslands. |
-| **Watering** | Moderate to infrequent watering; drought-tolerant once established. Allow the soil to dry out between waterings, mimicking natural rainfall patterns in temperate grasslands. |
+| **🌍 Origin** | East Asia (primarily Japan, Korea, and parts of China) |
+| **🌡️ Climate** | Temperate Grassland |
+| **☀️ Light** | Full sun (6+ hours direct sunlight daily) due to its native habitat in open, exposed grasslands. |
+| **💧 Water** | Moderate to infrequent watering; drought-tolerant once established. Allow the soil to dry out between waterings, mimicking natural rainfall patterns in temperate grasslands. |
 
-## Introduction
+## 🌱 Overview
 Agropyron is a genus of Eurasian plants in the grass family), native to Europe and Asia but widely naturalized in North America.
 Species in the genus are commonly referred to as wheatgrass.
 
@@ -47,11 +48,13 @@ Agropyron tsukushiense var. transiens (Hack.) Ohwi synonym Elymus tsukushiensis
 formerly included
 species now considered better suited in other genera: Crithopsis Elymus Kengyilia Leymus Thinopyrum Vulpia etc.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=2050757)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=2050757)
 
-## Care Guide
+## 🧤 Care Instructions
 Tsukushi Wheatgrass thrives in full sun and well-draining soil, characteristic of its native temperate grassland environment. It is drought-tolerant once established, needing moderate to infrequent watering. Minimal fertilization is required for optimal health.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to moderate. As a perennial grass from naturally occurring fields, it typically does not require heavy fertilization. A light application of balanced fertilizer in spring may be beneficial.
 
+---
+**Family:** [Uncategorized](/uncategorized)

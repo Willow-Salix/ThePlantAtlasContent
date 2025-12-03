@@ -1,39 +1,42 @@
 ---
-title: Beardless Wildrye
-description: Elymus triticoides Buckley
+title: "Beardless Wildrye"
+description: "Care guide for Elymus triticoides Buckley"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/elymus-triticoides-buckley
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Beardless Wildrye
+### *Elymus triticoides Buckley*
 
-*Elymus triticoides Buckley* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Western North America (from southern British Columbia, Canada, south to northern Baja California, Mexico) |
-| **Climate** | Arid Steppe |
-| **Sunlight** | Full Sun (at least 6 hours of direct sunlight daily) |
-| **Watering** | Drought-tolerant; water deeply but infrequently, allowing the soil to dry out completely between waterings, especially once established. |
+| **🌍 Origin** | Western North America (from southern British Columbia, Canada, south to northern Baja California, Mexico) |
+| **🌡️ Climate** | Arid Steppe |
+| **☀️ Light** | Full Sun (at least 6 hours of direct sunlight daily) |
+| **💧 Water** | Drought-tolerant; water deeply but infrequently, allowing the soil to dry out completely between waterings, especially once established. |
 
-## Introduction
+## 🌱 Overview
 Elymus may refer to:
 
 Elymus (plant), a genus of grasses
 Elymus (mythology), the mythical ancestor of the Elymians
 A man killed by Gorge (mythology)
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=19675586)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=19675586)
 
-## Care Guide
+## 🧤 Care Instructions
 Beardless Wildrye is a resilient, drought-tolerant grass native to arid steppes of Western North America, thriving in full sun. It requires minimal watering once established, preferring deep but infrequent irrigation that allows the soil to dry. Fertilization is generally not necessary, as it adapts well to less fertile conditions.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low; typically thrives in nutrient-poor to moderately fertile soils and does not require heavy fertilization.
 
+---
+**Family:** [Uncategorized](/uncategorized)

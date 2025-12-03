@@ -1,30 +1,31 @@
 ---
-title: Pluchea Tenuifolia Small
-description: Pluchea tenuifolia Small
+title: "Pluchea Tenuifolia Small"
+description: "Care guide for Pluchea tenuifolia Small"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/pluchea-tenuifolia-small
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Pluchea Tenuifolia Small
-
-*Pluchea tenuifolia Small* • **Uncategorized**
+### *Pluchea tenuifolia Small*
 
 ![Pluchea Tenuifolia Small](https://upload.wikimedia.org/wikipedia/commons/1/10/Starr_080208-2543_Pluchea_carolinensis.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (Florida, Georgia, Alabama, South Carolina, North Carolina) |
-| **Climate** | Humid Subtropical Wetland |
-| **Sunlight** | Full Sun to Partial Sun (prefers full sun for robust growth) |
-| **Watering** | Consistently moist to wet soil; never allow to dry out. Tolerates temporary inundation. |
+| **🌍 Origin** | Southeastern United States (Florida, Georgia, Alabama, South Carolina, North Carolina) |
+| **🌡️ Climate** | Humid Subtropical Wetland |
+| **☀️ Light** | Full Sun to Partial Sun (prefers full sun for robust growth) |
+| **💧 Water** | Consistently moist to wet soil; never allow to dry out. Tolerates temporary inundation. |
 
-## Introduction
+## 🌱 Overview
 Pluchea is a genus of flowering plants in the tribe Inuleae within the family Asteraceae. Members of this genus might be known as camphorweeds, plucheas, or less uniquely fleabanes. Some, such as P. carolinensis and P. odorata, are called sourbushes.  There are plants of many forms, from annual and perennial herbs to shrubs and trees, and there is variation in the morphology of leaves, flowers, and fruits.
 The genus was named for the French naturalist Abbé Noël-Antoine Pluche.
 
@@ -95,11 +96,13 @@ Streptoglossa macrocephala (F.Muell.) Dunlop (as P. macrocephala F.Muell.)
 Streptoglossa odora (F.Muell.) Dunlop (as P. odora F.Muell.)
 Thespidium basiflorum (F.Muell.) F.Muell. ex Benth. (as P. basiflora F.Muell.)
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=12349344)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=12349344)
 
-## Care Guide
+## 🧤 Care Instructions
 To mimic its native wetland environment, Pluchea tenuifolia Small thrives in full to partial sun and requires consistently moist to wet soil, never allowing it to dry out. Minimal fertilization is sufficient to support its growth. This plant is best suited for bog gardens, wet areas, or containers where constant moisture can be maintained.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to moderate, balanced liquid fertilizer applied during the growing season (spring to early fall).
 
+---
+**Family:** [Uncategorized](/uncategorized)

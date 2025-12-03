@@ -1,30 +1,31 @@
 ---
-title: Southern Whitetop
-description: Doellingeria sericocarpoides Small
+title: "Southern Whitetop"
+description: "Care guide for Doellingeria sericocarpoides Small"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/doellingeria-sericocarpoides-small
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Southern Whitetop
-
-*Doellingeria sericocarpoides Small* • **Uncategorized**
+### *Doellingeria sericocarpoides Small*
 
 ![Southern Whitetop](https://upload.wikimedia.org/wikipedia/commons/1/11/Doellingeria_umbellata.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (e.g., Florida, Georgia, North Carolina, South Carolina) |
-| **Climate** | Temperate Forest/Savanna with humid subtropical influences |
-| **Sunlight** | Full sun to partial shade, preferring full sun for optimal flowering and robust growth. |
-| **Watering** | Moderate, consistent moisture; tolerates short periods of drought once established. Prefers well-drained soils to prevent waterlogging. |
+| **🌍 Origin** | Southeastern United States (e.g., Florida, Georgia, North Carolina, South Carolina) |
+| **🌡️ Climate** | Temperate Forest/Savanna with humid subtropical influences |
+| **☀️ Light** | Full sun to partial shade, preferring full sun for optimal flowering and robust growth. |
+| **💧 Water** | Moderate, consistent moisture; tolerates short periods of drought once established. Prefers well-drained soils to prevent waterlogging. |
 
-## Introduction
+## 🌱 Overview
 Doellingeria is a genus of flowering plants in the family Asteraceae. It contains species formerly included in Aster but now considered to be a distinct genus. They are known commonly as tall flat-topped asters or whitetops.
 There is still some disagreement as to which species should be included in Doellingeria. Some authorities include up to 10 or 11 species in Doellingeria, but phylogenetic analyses suggest that any Asian plants in the genus should be classified in Aster, making Doellengeria an endemic North American genus. A fourth is now treated as Oclemena reticulata.
 Doellingeria as it is now defined is a genus of perennial herbs growing from rhizomes or woody bases. The unbranched stems grow erect and the tallest can reach 200 cm (79 in) in height. The alternately arranged leaves have smooth edges and are sometimes woolly or rough-haired. The flower heads are a few millimeters long and contain 2 to 10 white ray florets, sometimes more. The disc florets are light yellow and the lobes at the tips may spread or curl. The fruit is a cypsela with a pappus of three rings of white or tan bristles and an outer ring of scales.
@@ -41,11 +42,13 @@ Doellingeria sericocarpoides Small - southeastern USA (Texas to Maryland; a few 
 Doellingeria sohayakiensis (Koidz.) G.L.Nesom - Japan
 Doellingeria umbellata (Mill.) Nees - USA (Florida to Maine + North Dakota); Canada (Alberta to Newfoundland)
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=23663308)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=23663308)
 
-## Care Guide
+## 🧤 Care Instructions
 Southern Whitetop thrives in full sun and well-drained, sandy soils typical of its native southeastern U.S. habitat. Provide moderate, consistent moisture, allowing the soil to dry slightly between waterings to mimic its natural conditions. Minimal fertilization is required as it prefers leaner soil conditions.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to moderate; adapted to lean, sandy soils. Fertilize sparingly with a balanced, slow-release formula only if growth appears weak.
 
+---
+**Family:** [Uncategorized](/uncategorized)

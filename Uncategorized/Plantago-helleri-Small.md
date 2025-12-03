@@ -1,37 +1,40 @@
 ---
-title: Heller's Plantain
-description: Plantago helleri Small
+title: "Heller's Plantain"
+description: "Care guide for Plantago helleri Small"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/plantago-helleri-small
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Heller's Plantain
-
-*Plantago helleri Small* • **Uncategorized**
+### *Plantago helleri Small*
 
 ![Heller's Plantain](https://upload.wikimedia.org/wikipedia/commons/6/6e/Plantago_major.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southern and Southwestern United States |
-| **Climate** | Semi-Arid Prairie |
-| **Sunlight** | Full Sun (6+ hours direct sunlight daily) |
-| **Watering** | Low; allow soil to dry out completely between waterings; highly drought-tolerant. |
+| **🌍 Origin** | Southern and Southwestern United States |
+| **🌡️ Climate** | Semi-Arid Prairie |
+| **☀️ Light** | Full Sun (6+ hours direct sunlight daily) |
+| **💧 Water** | Low; allow soil to dry out completely between waterings; highly drought-tolerant. |
 
-## Introduction
+## 🌱 Overview
 Plantago is a genus of about 200 species of flowering plants in the family Plantaginaceae, commonly called plantains or fleaworts. The common name plantain is shared with the unrelated cooking plantain. Most are herbaceous plants, though a few are subshrubs growing to 60 centimetres (24 inches) tall.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=51755)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=51755)
 
-## Care Guide
+## 🧤 Care Instructions
 Heller's Plantain thrives in full sun and well-draining, even poor, soils. It is highly drought-tolerant, requiring infrequent watering once established. Minimal fertilization is needed.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low; thrives in poor or sandy soils and generally does not require regular fertilization.
 
+---
+**Family:** [Uncategorized](/uncategorized)

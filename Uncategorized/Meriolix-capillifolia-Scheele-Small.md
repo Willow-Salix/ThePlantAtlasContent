@@ -1,30 +1,33 @@
 ---
-title: Threadleaf Evening Primrose
-description: Meriolix capillifolia (Scheele) Small
+title: "Threadleaf Evening Primrose"
+description: "Care guide for Meriolix capillifolia (Scheele) Small"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/meriolix-capillifolia-scheele-small
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Threadleaf Evening Primrose
+### *Meriolix capillifolia (Scheele) Small*
 
-*Meriolix capillifolia (Scheele) Small* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Central and Southern United States |
-| **Climate** | Temperate Grassland and Open Woodland |
-| **Sunlight** | Full sun (6+ hours of direct sunlight daily) |
-| **Watering** | Moderate watering, allowing soil to dry between waterings; drought-tolerant once established. |
+| **🌍 Origin** | Central and Southern United States |
+| **🌡️ Climate** | Temperate Grassland and Open Woodland |
+| **☀️ Light** | Full sun (6+ hours of direct sunlight daily) |
+| **💧 Water** | Moderate watering, allowing soil to dry between waterings; drought-tolerant once established. |
 
-## Care Guide
+## 🧤 Care Instructions
 This Threadleaf Evening Primrose thrives in full sun, typical of its native North American prairies and open woodlands. It prefers moderate watering, tolerating drought once established, and grows best in lean to average soils. Minimal fertilization is needed for optimal growth and abundant flowering.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to moderate; thrives in lean to average soils. Over-fertilizing can reduce flowering.
 
+---
+**Family:** [Uncategorized](/uncategorized)

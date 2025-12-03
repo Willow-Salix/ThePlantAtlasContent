@@ -1,30 +1,33 @@
 ---
-title: Everglades Spatterdock
-description: Nymphozanthus sagittifolius (Walter) Fernald
+title: "Everglades Spatterdock"
+description: "Care guide for Nymphozanthus sagittifolius (Walter) Fernald"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/nymphozanthus-sagittifolius-walter-fernald
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Everglades Spatterdock
+### *Nymphozanthus sagittifolius (Walter) Fernald*
 
-*Nymphozanthus sagittifolius (Walter) Fernald* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (Florida, Georgia) |
-| **Climate** | Subtropical Aquatic/Wetland |
-| **Sunlight** | Full sun to partial sun. Requires bright light conditions to thrive. |
-| **Watering** | Constant submersion in water. As an aquatic plant, it needs to be rooted in a few inches to several feet of standing water. |
+| **🌍 Origin** | Southeastern United States (Florida, Georgia) |
+| **🌡️ Climate** | Subtropical Aquatic/Wetland |
+| **☀️ Light** | Full sun to partial sun. Requires bright light conditions to thrive. |
+| **💧 Water** | Constant submersion in water. As an aquatic plant, it needs to be rooted in a few inches to several feet of standing water. |
 
-## Care Guide
+## 🧤 Care Instructions
 Everglades Spatterdock is an aquatic plant needing constant submersion in water, preferably in full to partial sun. Ensure a nutrient-rich substrate and supplement with aquatic fertilizers to support its growth in ponds or water gardens.
 
-### Fertilizer
+### 🧪 Fertilizer
 Benefits from nutrient-rich aquatic substrate and occasional aquatic plant fertilizer tabs, especially during active growth.
 
+---
+**Family:** [Uncategorized](/uncategorized)

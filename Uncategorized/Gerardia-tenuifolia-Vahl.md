@@ -1,28 +1,29 @@
 ---
-title: Slender Gerardia
-description: Gerardia tenuifolia Vahl
+title: "Slender Gerardia"
+description: "Care guide for Gerardia tenuifolia Vahl"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/gerardia-tenuifolia-vahl
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Slender Gerardia
+### *Gerardia tenuifolia Vahl*
 
-*Gerardia tenuifolia Vahl* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Eastern and Central United States, southeastern Canada |
-| **Climate** | Temperate Grassland/Woodland Edge |
-| **Sunlight** | Full sun to partial shade (at least 6 hours of direct sun for best flowering) |
-| **Watering** | Moderate. Keep soil consistently moist but well-drained during the growing season; avoid waterlogging. |
+| **🌍 Origin** | Eastern and Central United States, southeastern Canada |
+| **🌡️ Climate** | Temperate Grassland/Woodland Edge |
+| **☀️ Light** | Full sun to partial shade (at least 6 hours of direct sun for best flowering) |
+| **💧 Water** | Moderate. Keep soil consistently moist but well-drained during the growing season; avoid waterlogging. |
 
-## Introduction
+## 🌱 Overview
 Gerardia may refer to:
 
 Gerardia L., a plant genus now a synonym of Stenandrium Nees in family Acanthaceae
@@ -35,11 +36,13 @@ Agalinis purpurea
 Agalinis skinneriana
 Agalinis tenuifolia
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=48731109)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=48731109)
 
-## Care Guide
+## 🧤 Care Instructions
 Slender Gerardia prefers full sun to partial shade and well-drained soil that remains consistently moist. As a hemiparasitic annual, it needs minimal direct fertilization, often performing best in average soil conditions and relying on host plants for some nutrients.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to none. This hemiparasitic plant thrives in average to poor soils and typically does not require supplemental fertilization.
 
+---
+**Family:** [Uncategorized](/uncategorized)

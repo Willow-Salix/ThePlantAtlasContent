@@ -1,37 +1,40 @@
 ---
-title: Rigid Thelypodium
-description: Thelypodium rigidum Greene
+title: "Rigid Thelypodium"
+description: "Care guide for Thelypodium rigidum Greene"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/thelypodium-rigidum-greene
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Rigid Thelypodium
-
-*Thelypodium rigidum Greene* • **Uncategorized**
+### *Thelypodium rigidum Greene*
 
 ![Rigid Thelypodium](https://upload.wikimedia.org/wikipedia/commons/0/08/Thelypodium_integrifolium_ssp_affine_2.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Western United States (Intermountain West), including Nevada, Utah, Idaho, Wyoming, and Colorado. |
-| **Climate** | Arid Scrubland / Semi-arid Steppe |
-| **Sunlight** | Full sun (at least 6+ hours of direct sunlight daily). |
-| **Watering** | Infrequent watering; drought-tolerant. Allow soil to dry completely between deep waterings. |
+| **🌍 Origin** | Western United States (Intermountain West), including Nevada, Utah, Idaho, Wyoming, and Colorado. |
+| **🌡️ Climate** | Arid Scrubland / Semi-arid Steppe |
+| **☀️ Light** | Full sun (at least 6+ hours of direct sunlight daily). |
+| **💧 Water** | Infrequent watering; drought-tolerant. Allow soil to dry completely between deep waterings. |
 
-## Introduction
+## 🌱 Overview
 Thelypodium is a genus of flowering plants in the mustard family. There are 16 to 20 species, all native to western North America. Thelypody is a common name for plants in this genus.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=29128502)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=29128502)
 
-## Care Guide
+## 🧤 Care Instructions
 This desert-adapted plant thrives in full sun and requires minimal water, tolerating drought conditions. Ensure excellent drainage and avoid over-fertilization to mimic its native arid habitat.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to no fertilizer; thrives in poor, well-draining soils.
 
+---
+**Family:** [Uncategorized](/uncategorized)

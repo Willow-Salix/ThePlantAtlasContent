@@ -1,38 +1,41 @@
 ---
-title: Lemhi Milkvetch
-description: Astragalus aquilonius (Barneby) Barneby
+title: "Lemhi Milkvetch"
+description: "Care guide for Astragalus aquilonius (Barneby) Barneby"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/astragalus-aquilonius-barneby-barneby
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Lemhi Milkvetch
+### *Astragalus aquilonius (Barneby) Barneby*
 
-*Astragalus aquilonius (Barneby) Barneby* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Western North America, specifically the Intermountain West region of the United States (Idaho, Montana, Wyoming) |
-| **Climate** | Arid Scrubland / Sagebrush Steppe |
-| **Sunlight** | Full sun (6+ hours of direct sunlight daily), as it grows in open, exposed habitats with little to no canopy cover. |
-| **Watering** | Infrequent watering; allow soil to dry out completely between waterings. Highly drought-tolerant due to its arid native climate with low annual precipitation. |
+| **🌍 Origin** | Western North America, specifically the Intermountain West region of the United States (Idaho, Montana, Wyoming) |
+| **🌡️ Climate** | Arid Scrubland / Sagebrush Steppe |
+| **☀️ Light** | Full sun (6+ hours of direct sunlight daily), as it grows in open, exposed habitats with little to no canopy cover. |
+| **💧 Water** | Infrequent watering; allow soil to dry out completely between waterings. Highly drought-tolerant due to its arid native climate with low annual precipitation. |
 
-## Introduction
+## 🌱 Overview
 Astragalus may refer to:
 
 Astragalus (plant), a large genus of herbs and small shrubs
 Astragalus (bone), the talus or ankle bone
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=74520574)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=74520574)
 
-## Care Guide
+## 🧤 Care Instructions
 The Lemhi Milkvetch thrives in full sun and well-draining, lean soils, characteristic of its arid scrubland origins. Provide infrequent watering, allowing the soil to dry out completely, and avoid excessive fertilization to best mimic its natural, drought-tolerant conditions.
 
-### Fertilizer
+### 🧪 Fertilizer
 Minimal to no fertilizer. As a legume, it fixes nitrogen and thrives in lean, nutrient-poor, rocky or gravelly soils.
 
+---
+**Family:** [Uncategorized](/uncategorized)

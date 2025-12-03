@@ -1,30 +1,31 @@
 ---
-title: Coastal Plain Hawkweed
-description: Hieracium megacephalon Nash
+title: "Coastal Plain Hawkweed"
+description: "Care guide for Hieracium megacephalon Nash"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/hieracium-megacephalon-nash
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Coastal Plain Hawkweed
-
-*Hieracium megacephalon Nash* • **Uncategorized**
+### *Hieracium megacephalon Nash*
 
 ![Coastal Plain Hawkweed](https://upload.wikimedia.org/wikipedia/commons/c/cd/Yellow_Hawkweed.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (Atlantic and Gulf Coastal Plains) |
-| **Climate** | Humid Subtropical (Coastal Plain Ecosystem) |
-| **Sunlight** | Full sun, requiring at least 6-8 hours of direct sunlight daily, consistent with its open, savanna-like native habitat. |
-| **Watering** | Moderate watering; prefers consistently moist but well-drained soil. Tolerant of some drought once established, but thrives with regular moisture reflecting humid subtropical rainfall patterns and sandy soil drainage. |
+| **🌍 Origin** | Southeastern United States (Atlantic and Gulf Coastal Plains) |
+| **🌡️ Climate** | Humid Subtropical (Coastal Plain Ecosystem) |
+| **☀️ Light** | Full sun, requiring at least 6-8 hours of direct sunlight daily, consistent with its open, savanna-like native habitat. |
+| **💧 Water** | Moderate watering; prefers consistently moist but well-drained soil. Tolerant of some drought once established, but thrives with regular moisture reflecting humid subtropical rainfall patterns and sandy soil drainage. |
 
-## Introduction
+## 🌱 Overview
 Hieracium (),
 known by the common name hawkweed and classically as hierakion (from ancient Greek ἱέραξ, hierax 'hawk'), 
 is a genus of flowering plant in the family Asteraceae, and closely related to dandelion (Taraxacum), chicory (Cichorium), prickly lettuce (Lactuca) and sow thistle (Sonchus),
@@ -33,11 +34,13 @@ Some botanists group all these species or subspecies into approximately 800 acce
 
 A dry roadside dotted with small, ¾ inch red orange flowers, interspersed with very similar yellow ones, and often the white of daisies, is a good sign that you are in Hawkweed country.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=338228)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=338228)
 
-## Care Guide
+## 🧤 Care Instructions
 This hawkweed thrives in full sun and prefers consistently moist, well-drained soil, typical of its native humid subtropical coastal plain environment. It is adaptable to sandy soils and does not require heavy fertilization, making it a relatively low-maintenance plant.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to moderate fertilization. Adapted to growing in sandy, often nutrient-poor soils. An annual application of a balanced, slow-release fertilizer in spring should suffice, or none if soil is reasonably fertile.
 
+---
+**Family:** [Uncategorized](/uncategorized)

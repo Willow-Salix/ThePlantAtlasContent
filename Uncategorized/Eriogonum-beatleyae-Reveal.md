@@ -1,39 +1,42 @@
 ---
-title: Beatley's Buckwheat
-description: Eriogonum beatleyae Reveal
+title: "Beatley's Buckwheat"
+description: "Care guide for Eriogonum beatleyae Reveal"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/eriogonum-beatleyae-reveal
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Beatley's Buckwheat
-
-*Eriogonum beatleyae Reveal* • **Uncategorized**
+### *Eriogonum beatleyae Reveal*
 
 ![Beatley's Buckwheat](https://upload.wikimedia.org/wikipedia/commons/d/dc/Eriogonum_compositum_5077.JPG)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Nye County, Nevada, USA (Great Basin region) |
-| **Climate** | Arid Scrubland / High Desert |
-| **Sunlight** | Full sun, requiring direct sunlight for most of the day, typical of an exposed desert environment. |
-| **Watering** | Very infrequent watering; allow soil to completely dry out between waterings. Highly drought-tolerant due to adaptations to desert rainfall patterns. |
+| **🌍 Origin** | Nye County, Nevada, USA (Great Basin region) |
+| **🌡️ Climate** | Arid Scrubland / High Desert |
+| **☀️ Light** | Full sun, requiring direct sunlight for most of the day, typical of an exposed desert environment. |
+| **💧 Water** | Very infrequent watering; allow soil to completely dry out between waterings. Highly drought-tolerant due to adaptations to desert rainfall patterns. |
 
-## Introduction
+## 🌱 Overview
 Eriogonum is a genus of flowering plants in the family Polygonaceae. The genus is found in North America and is known as wild buckwheat.  This is a highly species-rich genus, and indications are that active speciation is continuing.  It includes some common wildflowers such as the California buckwheat (Eriogonum fasciculatum).
 The genus derived its name from the Greek word erion meaning 'wool' and gonu meaning 'knee or joint'. The author of the genus, Michaux, explained the name as describing the first named species of the genus (E. tomentosum) as a wooly plant with sharply bent stems ("planta lanata, geniculata"). Despite sharing the common name "buckwheat", Eriogonum is part of a different genus from the cultivated European buckwheat and than other plant species also called wild buckwheat.
 In addition to the widespread common species, approximately a third of the species in the genus are rare, endangered, or threatened.  One such species came into the news in 2005 when the Mount Diablo buckwheat (Eriogonum truncatum, believed to be extinct) was rediscovered.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=874698)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=874698)
 
-## Care Guide
+## 🧤 Care Instructions
 Beatley's Buckwheat thrives in full sun and requires exceptionally well-draining soil. Water sparingly, allowing the soil to fully dry between sessions, and avoid rich fertilizers to replicate its native arid, nutrient-poor conditions.
 
-### Fertilizer
+### 🧪 Fertilizer
 Minimal to no fertilizer needed. This plant is adapted to lean, nutrient-poor desert soils and can be harmed by excessive fertilization.
 
+---
+**Family:** [Uncategorized](/uncategorized)

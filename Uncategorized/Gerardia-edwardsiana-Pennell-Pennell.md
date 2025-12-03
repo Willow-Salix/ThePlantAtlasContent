@@ -1,28 +1,29 @@
 ---
-title: Edwards' False Foxglove
-description: Gerardia edwardsiana (Pennell) Pennell
+title: "Edwards' False Foxglove"
+description: "Care guide for Gerardia edwardsiana (Pennell) Pennell"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/gerardia-edwardsiana-pennell-pennell
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Edwards' False Foxglove
+### *Gerardia edwardsiana (Pennell) Pennell*
 
-*Gerardia edwardsiana (Pennell) Pennell* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (Florida, Georgia) |
-| **Climate** | Subtropical Pine Barren/Sandhill |
-| **Sunlight** | Full sun to partial sun (at least 6 hours direct sun daily) |
-| **Watering** | Moderate to low, allow soil to dry out completely between waterings to mimic its dry native habitat. |
+| **🌍 Origin** | Southeastern United States (Florida, Georgia) |
+| **🌡️ Climate** | Subtropical Pine Barren/Sandhill |
+| **☀️ Light** | Full sun to partial sun (at least 6 hours direct sun daily) |
+| **💧 Water** | Moderate to low, allow soil to dry out completely between waterings to mimic its dry native habitat. |
 
-## Introduction
+## 🌱 Overview
 Gerardia may refer to:
 
 Gerardia L., a plant genus now a synonym of Stenandrium Nees in family Acanthaceae
@@ -35,11 +36,13 @@ Agalinis purpurea
 Agalinis skinneriana
 Agalinis tenuifolia
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=48731109)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=48731109)
 
-## Care Guide
+## 🧤 Care Instructions
 This plant thrives in full sun and well-drained, sandy soils typical of its native southeastern US pine barrens. Water sparingly, allowing the soil to dry between waterings, and avoid rich fertilization given its hemiparasitic nature and adaptation to poor soils.
 
-### Fertilizer
+### 🧪 Fertilizer
 Minimal to no fertilizer; it thrives in nutrient-poor, sandy soils due to its hemiparasitic nature.
 
+---
+**Family:** [Uncategorized](/uncategorized)

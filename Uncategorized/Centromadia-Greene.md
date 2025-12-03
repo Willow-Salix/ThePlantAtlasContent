@@ -1,28 +1,29 @@
 ---
-title: Tarweed
-description: Centromadia Greene
+title: "Tarweed"
+description: "Care guide for Centromadia Greene"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/centromadia-greene
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Tarweed
+### *Centromadia Greene*
 
-*Centromadia Greene* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | California, USA; Baja California, Mexico |
-| **Climate** | Mediterranean Shrubland/Woodland |
-| **Sunlight** | Full sun (at least 6-8 hours direct sunlight daily) |
-| **Watering** | Infrequent watering; highly drought-tolerant once established. Allow soil to dry completely between waterings. |
+| **🌍 Origin** | California, USA; Baja California, Mexico |
+| **🌡️ Climate** | Mediterranean Shrubland/Woodland |
+| **☀️ Light** | Full sun (at least 6-8 hours direct sunlight daily) |
+| **💧 Water** | Infrequent watering; highly drought-tolerant once established. Allow soil to dry completely between waterings. |
 
-## Introduction
+## 🌱 Overview
 Tarweed or tarplant is a common name for several plants and may refer to:
 
 Various plants in the tribe Madieae of the family Asteraceae:
@@ -39,11 +40,13 @@ Madia
 Amsinckia lycopsoides
 Cuphea viscosissima
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=12159383)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=12159383)
 
-## Care Guide
+## 🧤 Care Instructions
 Centromadia Greene, commonly known as tarweed, thrives in full sun and well-draining soil, mimicking its native Mediterranean shrubland environment. Once established, it is highly drought-tolerant, requiring minimal watering and very little fertilizer to flourish, making it ideal for xeriscaping.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to none. These plants are adapted to lean soils and generally do not require supplemental fertilization.
 
+---
+**Family:** [Uncategorized](/uncategorized)

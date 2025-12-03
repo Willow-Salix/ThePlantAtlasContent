@@ -1,37 +1,40 @@
 ---
-title: Canary Islands Lotus
-description: Lotus glaucus Aiton
+title: "Canary Islands Lotus"
+description: "Care guide for Lotus glaucus Aiton"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/lotus-glaucus-aiton
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Canary Islands Lotus
+### *Lotus glaucus Aiton*
 
-*Lotus glaucus Aiton* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Canary Islands (Spain) |
-| **Climate** | Subtropical Arid to Semi-Arid |
-| **Sunlight** | Full sun to partial shade (prefers full sun for best flowering) |
-| **Watering** | Low to moderate, allow soil to dry out completely between waterings, drought tolerant once established. |
+| **🌍 Origin** | Canary Islands (Spain) |
+| **🌡️ Climate** | Subtropical Arid to Semi-Arid |
+| **☀️ Light** | Full sun to partial shade (prefers full sun for best flowering) |
+| **💧 Water** | Low to moderate, allow soil to dry out completely between waterings, drought tolerant once established. |
 
-## Introduction
+## 🌱 Overview
 Lotus or LOTUS may refer to:
 
 
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=18668)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=18668)
 
-## Care Guide
+## 🧤 Care Instructions
 This plant thrives in sunny, dry conditions typical of its native Canary Islands. Provide full sun and water sparingly, allowing the soil to dry out thoroughly between waterings to mimic its natural arid environment. It requires minimal fertilization.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low; a balanced, slow-release fertilizer once in spring is sufficient, or avoid if soil is naturally fertile.
 
+---
+**Family:** [Uncategorized](/uncategorized)

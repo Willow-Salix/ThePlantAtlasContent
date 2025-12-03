@@ -1,38 +1,41 @@
 ---
-title: Necklacepod
-description: Styphnolobium Schott
+title: "Necklacepod"
+description: "Care guide for Styphnolobium Schott"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/styphnolobium-schott
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Necklacepod
+### *Styphnolobium Schott*
 
-*Styphnolobium Schott* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southern United States (Texas, Oklahoma, Arkansas, Louisiana) and northeastern Mexico |
-| **Climate** | Temperate to Subtropical Woodlands and Prairies |
-| **Sunlight** | Full sun to partial shade; prefers at least 6 hours of direct sunlight daily for optimal growth and flowering. |
-| **Watering** | Drought-tolerant once established; water regularly during the first year of planting, then infrequently, allowing the soil to dry out completely between waterings. |
+| **🌍 Origin** | Southern United States (Texas, Oklahoma, Arkansas, Louisiana) and northeastern Mexico |
+| **🌡️ Climate** | Temperate to Subtropical Woodlands and Prairies |
+| **☀️ Light** | Full sun to partial shade; prefers at least 6 hours of direct sunlight daily for optimal growth and flowering. |
+| **💧 Water** | Drought-tolerant once established; water regularly during the first year of planting, then infrequently, allowing the soil to dry out completely between waterings. |
 
-## Introduction
+## 🌱 Overview
 Necklacepod is a common name for several plants and may refer to:
 
 Sophora tomentosa
 Styphnolobium
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=48618299)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=48618299)
 
-## Care Guide
+## 🧤 Care Instructions
 This hardy plant thrives in full sun to partial shade and is highly drought-tolerant once established, requiring minimal watering. As a legume, it enriches the soil and generally needs little to no supplemental fertilizer, preferring well-drained conditions.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to none. As a legume, it fixes nitrogen. Fertilize sparingly, if at all, typically only if soil tests indicate a specific deficiency.
 
+---
+**Family:** [Uncategorized](/uncategorized)

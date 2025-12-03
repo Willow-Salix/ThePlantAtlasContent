@@ -1,30 +1,31 @@
 ---
-title: Devils Gate Twinpod
-description: Physaria eburniflora Rollins
+title: "Devils Gate Twinpod"
+description: "Care guide for Physaria eburniflora Rollins"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/physaria-eburniflora-rollins
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Devils Gate Twinpod
-
-*Physaria eburniflora Rollins* • **Uncategorized**
+### *Physaria eburniflora Rollins*
 
 ![Devils Gate Twinpod](https://upload.wikimedia.org/wikipedia/commons/9/94/Physaria_chambersii_5.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Natrona County, Wyoming, USA |
-| **Climate** | Arid Scrubland / Semi-arid Steppe |
-| **Sunlight** | Full sun (requires at least 6-8 hours of direct sunlight daily to thrive) |
-| **Watering** | Drought-tolerant; water infrequently and deeply, allowing the soil to dry out completely between waterings. Avoid overwatering, which can lead to root rot. |
+| **🌍 Origin** | Natrona County, Wyoming, USA |
+| **🌡️ Climate** | Arid Scrubland / Semi-arid Steppe |
+| **☀️ Light** | Full sun (requires at least 6-8 hours of direct sunlight daily to thrive) |
+| **💧 Water** | Drought-tolerant; water infrequently and deeply, allowing the soil to dry out completely between waterings. Avoid overwatering, which can lead to root rot. |
 
-## Introduction
+## 🌱 Overview
 Physaria is a genus of flowering plants in the family Brassicaceae. Many species are known generally as twinpods, bladderpods, or lesquerella. They are native to the Americas, with many species endemic to western North America. They are densely hairy annual and perennial herbs often growing prostrate or decumbent, along the ground in patches or clumps. They bear inflorescences of bright yellow flowers. The fruit is often notched deeply, dividing into twin sections, giving the genus its common name.
 Bladderpod oil is extracted from the seeds of Physaria fendleri and certain other species in the genus.
 Due to the presence of both annual and perennial herbaceous members, this genus has been used as a model for allocation pattern comparisons between the annual and perennial life cycle.
@@ -141,11 +142,13 @@ Physaria acutifolia  Rydb.
  Physaria vitulifera  Rydb.
  Physaria wyndii  (Rollins & E.A.Shaw) O'Kane & Al-Shehbaz
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=26102091)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=26102091)
 
-## Care Guide
+## 🧤 Care Instructions
 The Devils Gate Twinpod is a drought-tolerant plant that thrives in conditions mirroring its native arid scrubland, demanding full sun exposure. It requires very infrequent watering, allowing the soil to dry thoroughly between sessions, and has minimal to no fertilization needs, preferring lean soil conditions. Ensure excellent drainage is provided to prevent waterlogging.
 
-### Fertilizer
+### 🧪 Fertilizer
 Minimal to no fertilizer is needed. It thrives in lean, nutrient-poor soils characteristic of its native habitat. If growth is exceptionally poor, a very light, balanced slow-release fertilizer application in spring may be considered, but generally not required.
 
+---
+**Family:** [Uncategorized](/uncategorized)

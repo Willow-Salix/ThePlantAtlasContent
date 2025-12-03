@@ -1,30 +1,31 @@
 ---
-title: Carquinez Goldenbush
-description: Isocoma arguta Greene
+title: "Carquinez Goldenbush"
+description: "Care guide for Isocoma arguta Greene"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/isocoma-arguta-greene
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Carquinez Goldenbush
-
-*Isocoma arguta Greene* • **Uncategorized**
+### *Isocoma arguta Greene*
 
 ![Carquinez Goldenbush](https://upload.wikimedia.org/wikipedia/commons/3/3e/Isocoma_acradenia.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | California, USA (San Francisco Bay Area) |
-| **Climate** | Mediterranean Chaparral/Arid Scrubland |
-| **Sunlight** | Full sun (6+ hours direct sunlight daily) |
-| **Watering** | Drought tolerant; water deeply but infrequently, allowing soil to dry out completely between waterings, especially after establishment. |
+| **🌍 Origin** | California, USA (San Francisco Bay Area) |
+| **🌡️ Climate** | Mediterranean Chaparral/Arid Scrubland |
+| **☀️ Light** | Full sun (6+ hours direct sunlight daily) |
+| **💧 Water** | Drought tolerant; water deeply but infrequently, allowing soil to dry out completely between waterings, especially after establishment. |
 
-## Introduction
+## 🌱 Overview
 Isocoma, commonly called jimmyweed or goldenweed, is a genus of North American semi-woody shrubs in the family Asteraceae. It is found in the semi-arid areas of Southwestern United States and Mexico.
 The name of this genus is derived from the Greek for "equal hair" referring to the pappus on the seed.
 Isocoma species are used as food plants by the larvae of some Lepidoptera species including Schinia bicuspida (recorded on I. drummondii), Schinia erosa (feeds exclusively on I. acradenia) and Schinia tertia (recorded on I. pluriflora).
@@ -47,11 +48,13 @@ Isocoma tenuisecta Greene - burrow goldenweed, burroweed - Arizona New Mexico
 Isocoma tomentosa G.L.Nesom - Chihuahua
 Isocoma veneta (Kunth) Greene - jimmyweed - Mexico from Coahuila to Oaxaca
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=10371648)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=10371648)
 
-## Care Guide
+## 🧤 Care Instructions
 Carquinez Goldenbush is a highly drought-tolerant plant thriving in full sun, characteristic of its native Californian chaparral habitat. It requires minimal watering and no regular fertilization, preferring well-drained, lean soils.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to no fertilizer needed; thrives in lean soils and may be sensitive to excessive nutrients.
 
+---
+**Family:** [Uncategorized](/uncategorized)

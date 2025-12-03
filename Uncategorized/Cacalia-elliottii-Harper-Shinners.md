@@ -1,30 +1,31 @@
 ---
-title: Elliott's Indian-plantain
-description: Cacalia elliottii (Harper) Shinners
+title: "Elliott's Indian-plantain"
+description: "Care guide for Cacalia elliottii (Harper) Shinners"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/cacalia-elliottii-harper-shinners
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Elliott's Indian-plantain
-
-*Cacalia elliottii (Harper) Shinners* • **Uncategorized**
+### *Cacalia elliottii (Harper) Shinners*
 
 ![Elliott's Indian-plantain](https://upload.wikimedia.org/wikipedia/commons/3/35/Asteraceae_-_Adenostyles_alpina-2.JPG)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (e.g., Florida, Georgia, Alabama, South Carolina) |
-| **Climate** | Humid Subtropical |
-| **Sunlight** | Full sun to partial shade; prefers open areas like meadows, savannas, or woodland edges. |
-| **Watering** | Requires consistently moist, well-drained soil, mimicking its native habitat in moist pine flatwoods and wet prairies; avoid allowing the soil to dry out completely. |
+| **🌍 Origin** | Southeastern United States (e.g., Florida, Georgia, Alabama, South Carolina) |
+| **🌡️ Climate** | Humid Subtropical |
+| **☀️ Light** | Full sun to partial shade; prefers open areas like meadows, savannas, or woodland edges. |
+| **💧 Water** | Requires consistently moist, well-drained soil, mimicking its native habitat in moist pine flatwoods and wet prairies; avoid allowing the soil to dry out completely. |
 
-## Introduction
+## 🌱 Overview
 The genus Cacalia L. is a nomen rejiciendum (rejected name) under the International Code of Nomenclature for algae, fungi, and plants. The type species C. alpina L. has been transferred to Adenostyles alpina (L.) Bluff & Fingerh., and the former species of Cacalia now reside in a few different genera.
 
 Adenostyles
@@ -55,11 +56,13 @@ Cacalia tuberosa Nutt.
 Arnoglossum sulcatum (Fernald) H.Rob - Georgia Indian plaintain
 Cacalia sulcata Fern.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=16938508)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=16938508)
 
-## Care Guide
+## 🧤 Care Instructions
 This plant thrives in full sun to partial shade and requires consistently moist, well-drained soil, mirroring its native humid subtropical wetlands and open woodlands. Fertilize lightly during the growing season to support its vigorous growth.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to moderate fertilization; a balanced, slow-release fertilizer or light application of liquid fertilizer during the growing season is sufficient.
 
+---
+**Family:** [Uncategorized](/uncategorized)

@@ -1,0 +1,33 @@
+---
+title: "Meadow Flax"
+description: "Care guide for Adenolinum pratense (Norton) W.A. Weber"
+published: true
+date: 2025-12-02
+editor: markdown
+path: uncategorized/adenolinum-pratense-norton-wa-weber
+tags:
+  - Uncategorized
+  - Flora
+  - Auto-Generated
+---
+
+# Meadow Flax
+### *Adenolinum pratense (Norton) W.A. Weber*
+
+## 📋 Quick Specs
+
+| Feature | Detail |
+| :--- | :--- |
+| **🌍 Origin** | Western North America (United States, Canada), particularly the Rocky Mountains and Great Plains regions |
+| **🌡️ Climate** | Temperate Grassland / Montane |
+| **☀️ Light** | Full sun (at least 6 hours of direct sun daily) to ensure robust growth and abundant flowering. |
+| **💧 Water** | Moderate watering, allowing the soil to dry out between waterings. It is drought-tolerant once established, reflecting its adaptation to regions with seasonal dry spells. |
+
+## 🧤 Care Instructions
+Meadow Flax thrives in full sun and well-draining, average to poor soils. It is drought-tolerant once established, requiring moderate watering. Minimal to no fertilization is necessary for healthy growth and prolific flowering.
+
+### 🧪 Fertilizer
+Low to no fertilizer. This plant thrives in average to poor, well-draining soils typical of its native habitat, and over-fertilization can be detrimental.
+
+---
+**Family:** [Uncategorized](/uncategorized)

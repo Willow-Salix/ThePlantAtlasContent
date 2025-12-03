@@ -1,38 +1,41 @@
 ---
-title: Honduras Mahogany
-description: Swietenia macrophylla King
+title: "Honduras Mahogany"
+description: "Care guide for Swietenia macrophylla King"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/swietenia-macrophylla-king
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Honduras Mahogany
+### *Swietenia macrophylla King*
 
-*Swietenia macrophylla King* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Central and South America, from southern Mexico to Brazil, including Central American countries like Honduras, Belize, Guatemala, and parts of the Amazon basin. |
-| **Climate** | Tropical Moist Forest |
-| **Sunlight** | Requires full sun for optimal growth and development as a mature tree; young plants can tolerate partial shade. |
-| **Watering** | Prefers consistent moisture, requiring regular watering to keep the soil moist but well-drained. Tolerates a short dry season once established. |
+| **🌍 Origin** | Central and South America, from southern Mexico to Brazil, including Central American countries like Honduras, Belize, Guatemala, and parts of the Amazon basin. |
+| **🌡️ Climate** | Tropical Moist Forest |
+| **☀️ Light** | Requires full sun for optimal growth and development as a mature tree; young plants can tolerate partial shade. |
+| **💧 Water** | Prefers consistent moisture, requiring regular watering to keep the soil moist but well-drained. Tolerates a short dry season once established. |
 
-## Introduction
+## 🌱 Overview
 Honduras mahogany is a common name for several trees and may refer to:
 
 Swietenia humilis a small tree with a restricted range from southern Mexico to northern Central America
 Swietenia macrophylla, a large tree with a broad native range from Central America to South America, and cultivated in Asia for timber production.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=48733606)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=48733606)
 
-## Care Guide
+## 🧤 Care Instructions
 Honduras Mahogany thrives in full sun with consistent moisture, mimicking its native tropical moist forest environment. Ensure well-drained soil and provide moderate fertilization during active growth to support its vigorous development.
 
-### Fertilizer
+### 🧪 Fertilizer
 Benefits from moderate, balanced fertilization during its active growing season to support its rapid growth in tropical forest soils.
 
+---
+**Family:** [Uncategorized](/uncategorized)

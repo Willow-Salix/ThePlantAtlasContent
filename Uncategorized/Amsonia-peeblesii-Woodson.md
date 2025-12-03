@@ -1,30 +1,31 @@
 ---
-title: Peebles' Bluestar
-description: Amsonia peeblesii Woodson
+title: "Peebles' Bluestar"
+description: "Care guide for Amsonia peeblesii Woodson"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/amsonia-peeblesii-woodson
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Peebles' Bluestar
-
-*Amsonia peeblesii Woodson* • **Uncategorized**
+### *Amsonia peeblesii Woodson*
 
 ![Peebles' Bluestar](https://upload.wikimedia.org/wikipedia/commons/6/6f/Amsonia-tabernaemontana-flowers.JPG)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Arizona, USA (Coconino and Yavapai counties) |
-| **Climate** | Southwestern Arid/Semi-Arid Woodland |
-| **Sunlight** | Full sun to partial shade; benefits from afternoon shade in extremely hot climates. |
-| **Watering** | Drought-tolerant once established. Water moderately during prolonged dry periods, allowing soil to dry out completely between waterings. |
+| **🌍 Origin** | Arizona, USA (Coconino and Yavapai counties) |
+| **🌡️ Climate** | Southwestern Arid/Semi-Arid Woodland |
+| **☀️ Light** | Full sun to partial shade; benefits from afternoon shade in extremely hot climates. |
+| **💧 Water** | Drought-tolerant once established. Water moderately during prolonged dry periods, allowing soil to dry out completely between waterings. |
 
-## Introduction
+## 🌱 Overview
 Amsonia is a genus of flowering plants in the dogbane family, Apocynaceae, first described as a genus in 1788. It is native primarily to North America with one species in East Asia and another in the eastern Mediterranean. It was named in honor of the American physician John Amson. Members of the genus are commonly known as bluestars.
 
 Species
@@ -47,11 +48,13 @@ Amsonia tabernaemontana Walter – eastern bluestar – S + C + E United States
 Amsonia tharpii Woodson – feltleaf bluestar – W Texas, SE New Mexico
 Amsonia tomentosa Torr. & Frém. – woolly bluestar – SW US; Chihuahua
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=7148686)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=7148686)
 
-## Care Guide
+## 🧤 Care Instructions
 Peebles' Bluestar thrives in its native Southwestern arid woodland conditions, preferring full sun to partial shade. It requires moderate watering, especially when young, but becomes highly drought-tolerant once established. This plant prefers lean to average, well-drained soil and has low fertilizer needs.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low; thrives in lean to average soils. A light, balanced fertilizer application in spring is generally sufficient if needed.
 
+---
+**Family:** [Uncategorized](/uncategorized)

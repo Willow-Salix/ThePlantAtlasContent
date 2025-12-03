@@ -1,30 +1,31 @@
 ---
-title: Carolina Obedient Plant
-description: Physostegia denticulata sensu Small
+title: "Carolina Obedient Plant"
+description: "Care guide for Physostegia denticulata sensu Small"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/physostegia-denticulata-sensu-small
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Carolina Obedient Plant
-
-*Physostegia denticulata sensu Small* • **Uncategorized**
+### *Physostegia denticulata sensu Small*
 
 ![Carolina Obedient Plant](https://upload.wikimedia.org/wikipedia/commons/1/12/Physostegia-virginiana-1-US.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (e.g., Alabama, Florida, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, Virginia) |
-| **Climate** | Humid Subtropical, often found in moist woodlands, wet meadows, bogs, and along streambanks |
-| **Sunlight** | Full sun to partial shade; tolerates full sun best when soil moisture is consistent and abundant. |
-| **Watering** | High. Requires consistently moist to wet soil and does not tolerate drying out; thrives in conditions mimicking its native habitat in wetlands and along water bodies. |
+| **🌍 Origin** | Southeastern United States (e.g., Alabama, Florida, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, Virginia) |
+| **🌡️ Climate** | Humid Subtropical, often found in moist woodlands, wet meadows, bogs, and along streambanks |
+| **☀️ Light** | Full sun to partial shade; tolerates full sun best when soil moisture is consistent and abundant. |
+| **💧 Water** | High. Requires consistently moist to wet soil and does not tolerate drying out; thrives in conditions mimicking its native habitat in wetlands and along water bodies. |
 
-## Introduction
+## 🌱 Overview
 Physostegia, the lionshearts or false dragonheads  (in reference to their similarity to Dracocephalum), is a genus of flowering plants in the family Lamiaceae, native to North America (United States, Canada, northern Mexico). They are erect rhizomatous herbaceous perennials inhabiting damp, sunny places. 
 They grow up to 2 m (7 ft) tall with purple or pink tubular flowers in racemes in summer.
 The generic name comes from two Greek words, physa (a bladder) and stege (a covering), referring to the calyx, which becomes full of fruit when mature.
@@ -44,11 +45,13 @@ Physostegia pulchella Lundell - eastern Texas
 Physostegia purpurea (Walter) S.F.Blake - Southeast from Florida to North Carolina
 Physostegia virginiana (L.) Benth. - much of eastern + central US + Canada; northeastern Mexico
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=6052748)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=6052748)
 
-## Care Guide
+## 🧤 Care Instructions
 This plant thrives in sunny to partially shaded locations with consistently moist to wet soil, mimicking its native wetland and streambank habitats. Provide rich, organic soil and moderate fertilization for best growth, ensuring the soil never dries out.
 
-### Fertilizer
+### 🧪 Fertilizer
 Moderate. Benefits from rich, organic soil; an annual application of a balanced slow-release fertilizer or compost can support vigorous growth.
 
+---
+**Family:** [Uncategorized](/uncategorized)

@@ -1,37 +1,40 @@
 ---
-title: Showy Gilia
-description: Gilia formosa Greene ex Brand
+title: "Showy Gilia"
+description: "Care guide for Gilia formosa Greene ex Brand"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/gilia-formosa-greene-ex-brand
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Showy Gilia
-
-*Gilia formosa Greene ex Brand* • **Uncategorized**
+### *Gilia formosa Greene ex Brand*
 
 ![Showy Gilia](https://upload.wikimedia.org/wikipedia/commons/c/c2/Gilia_cana_ssp_speciformis_1.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southwestern United States (California, Nevada, Arizona) and Baja California, Mexico |
-| **Climate** | Arid Scrubland / Desert |
-| **Sunlight** | Full sun, requiring direct, unfiltered light for most of the day. |
-| **Watering** | Infrequent, deep watering; highly drought-tolerant once established, mimicking desert rainfall patterns. |
+| **🌍 Origin** | Southwestern United States (California, Nevada, Arizona) and Baja California, Mexico |
+| **🌡️ Climate** | Arid Scrubland / Desert |
+| **☀️ Light** | Full sun, requiring direct, unfiltered light for most of the day. |
+| **💧 Water** | Infrequent, deep watering; highly drought-tolerant once established, mimicking desert rainfall patterns. |
 
-## Introduction
+## 🌱 Overview
 Gilia cana is a species of flowering plant in the phlox family known by the common name showy gilia. It is native to California and Nevada where it grows in open areas with gravelly and sandy soils, such as desert and rocky slopes. The Mojave Desert range of some subspecies may extend into Arizona.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=16247606)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=16247606)
 
-## Care Guide
+## 🧤 Care Instructions
 Showy Gilia thrives in full sun, characteristic of its native arid scrubland and desert environments. It requires infrequent, deep watering once established due to its high drought tolerance. This plant prefers lean, well-draining soils and needs minimal to no supplemental fertilization.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to no fertilizer; thrives in lean, naturally low-nutrient soils typical of its arid native habitat.
 
+---
+**Family:** [Uncategorized](/uncategorized)

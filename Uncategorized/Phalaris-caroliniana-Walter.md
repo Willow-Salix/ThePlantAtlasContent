@@ -1,35 +1,38 @@
 ---
-title: Carolina Canarygrass
-description: Phalaris caroliniana Walter
+title: "Carolina Canarygrass"
+description: "Care guide for Phalaris caroliniana Walter"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/phalaris-caroliniana-walter
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Carolina Canarygrass
+### *Phalaris caroliniana Walter*
 
-*Phalaris caroliniana Walter* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (including Florida, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, Texas, Virginia, West Virginia), extending into Mexico |
-| **Climate** | Humid Subtropical (often in moist, open, disturbed areas) |
-| **Sunlight** | Full Sun to Partial Shade, preferring open, exposed locations. |
-| **Watering** | Moderate to High watering, preferring consistently moist soil, especially during its active growing season, but not waterlogged. |
+| **🌍 Origin** | Southeastern United States (including Florida, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, Texas, Virginia, West Virginia), extending into Mexico |
+| **🌡️ Climate** | Humid Subtropical (often in moist, open, disturbed areas) |
+| **☀️ Light** | Full Sun to Partial Shade, preferring open, exposed locations. |
+| **💧 Water** | Moderate to High watering, preferring consistently moist soil, especially during its active growing season, but not waterlogged. |
 
-## Introduction
+## 🌱 Overview
 Phalaris (Greek: Φάλαρις) was the tyrant of Akragas (now Agrigento) in Sicily in Magna Graecia, from approximately 570 to 554 BC.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=78924)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=78924)
 
-## Care Guide
+## 🧤 Care Instructions
 Carolina Canarygrass thrives in humid subtropical conditions, favoring ample sunlight to partial shade and consistently moist soil. It is a resilient plant, not requiring rich soil or heavy fertilization. This adaptable grass performs well in a variety of disturbed or open, wet areas.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to Moderate fertilizer; it is adaptable and can thrive in average to somewhat poor soil conditions, often found in disturbed sites.
 
+---
+**Family:** [Uncategorized](/uncategorized)

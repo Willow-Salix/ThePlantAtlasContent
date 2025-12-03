@@ -1,28 +1,29 @@
 ---
-title: Leafless Agalinis
-description: Gerardia pseudaphylla (Pennell) Pennell
+title: "Leafless Agalinis"
+description: "Care guide for Gerardia pseudaphylla (Pennell) Pennell"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/gerardia-pseudaphylla-pennell-pennell
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Leafless Agalinis
+### *Gerardia pseudaphylla (Pennell) Pennell*
 
-*Gerardia pseudaphylla (Pennell) Pennell* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (Florida, Georgia, Alabama) |
-| **Climate** | Warm Temperate Moist Savannas and Pine Flatwoods |
-| **Sunlight** | Full sun to partial sun. Requires bright, direct light for most of the day. |
-| **Watering** | Keep soil consistently moist. Mimic its native boggy or wet prairie conditions, ensuring it does not dry out completely between waterings. |
+| **🌍 Origin** | Southeastern United States (Florida, Georgia, Alabama) |
+| **🌡️ Climate** | Warm Temperate Moist Savannas and Pine Flatwoods |
+| **☀️ Light** | Full sun to partial sun. Requires bright, direct light for most of the day. |
+| **💧 Water** | Keep soil consistently moist. Mimic its native boggy or wet prairie conditions, ensuring it does not dry out completely between waterings. |
 
-## Introduction
+## 🌱 Overview
 Gerardia may refer to:
 
 Gerardia L., a plant genus now a synonym of Stenandrium Nees in family Acanthaceae
@@ -35,11 +36,13 @@ Agalinis purpurea
 Agalinis skinneriana
 Agalinis tenuifolia
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=48731109)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=48731109)
 
-## Care Guide
+## 🧤 Care Instructions
 Leafless Agalinis thrives in full to partial sun with consistently moist soil, mirroring its native habitat in the wet savannas and flatwoods of the southeastern US. It prefers low to moderate fertility due to its hemi-parasitic nature, acquiring nutrients from nearby host plants. Ensure good drainage to prevent waterlogging while maintaining constant moisture.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to moderate. As a hemi-parasite, it extracts nutrients from host plants, so excessive fertilization is generally not needed and could be harmful.
 
+---
+**Family:** [Uncategorized](/uncategorized)

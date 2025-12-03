@@ -1,30 +1,31 @@
 ---
-title: Lathleaf Pennyroyal
-description: Hedeoma lata Small
+title: "Lathleaf Pennyroyal"
+description: "Care guide for Hedeoma lata Small"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/hedeoma-lata-small
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Lathleaf Pennyroyal
-
-*Hedeoma lata Small* • **Uncategorized**
+### *Hedeoma lata Small*
 
 ![Lathleaf Pennyroyal](https://upload.wikimedia.org/wikipedia/commons/4/44/Hedeoma_nana_1.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (endemic to Florida) |
-| **Climate** | Warm Temperate to Subtropical Pine Flatwoods and Sandhills |
-| **Sunlight** | Full sun to partial sun; thrives with ample direct sunlight, typical of open pine flatwoods and sandhill environments. |
-| **Watering** | Prefers consistently moist, well-draining soil during the active growing season (summer) due to high native rainfall, but is tolerant of short dry periods once established. Avoid waterlogging. |
+| **🌍 Origin** | Southeastern United States (endemic to Florida) |
+| **🌡️ Climate** | Warm Temperate to Subtropical Pine Flatwoods and Sandhills |
+| **☀️ Light** | Full sun to partial sun; thrives with ample direct sunlight, typical of open pine flatwoods and sandhill environments. |
+| **💧 Water** | Prefers consistently moist, well-draining soil during the active growing season (summer) due to high native rainfall, but is tolerant of short dry periods once established. Avoid waterlogging. |
 
-## Introduction
+## 🌱 Overview
 Hedeoma is a genus of flowering plants in the mint family, Lamiaceae. It is native to North and South America. They are commonly known as false pennyroyals.
 The genus name is derived from the Greek words ἡδύς (hedys), meaning "sweet," and ὀσμή (osme), meaning "odour". It refers to the scent of the leaves. Hedeoma patens M.E. Jones (common name, oregano chiquito) is used by natives of northwestern Mexico to flavor various food items.
 
@@ -73,11 +74,13 @@ Hedeoma tenuiflora Brandegee - Baja California
 Hedeoma tenuipes Epling - northeastern Mexico
 Hedeoma todsenii R.S.Irving – Todsen's false pennyroyal  - New Mexico
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=11351216)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=11351216)
 
-## Care Guide
+## 🧤 Care Instructions
 This plant thrives in full sun and well-draining, sandy soils, characteristic of its native Florida pine flatwood and sandhill habitats. It requires consistent moisture during warmer months but is tolerant of some drought and prefers lean soil conditions, making over-fertilization unnecessary.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low fertilizer needs; it is adapted to the nutrient-poor, sandy soils of its native habitat. Over-fertilization can be detrimental.
 
+---
+**Family:** [Uncategorized](/uncategorized)

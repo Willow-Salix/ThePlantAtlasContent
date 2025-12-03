@@ -1,30 +1,31 @@
 ---
-title: Lanai Phyllostegia
-description: Phyllostegia haliakalae Wawra
+title: "Lanai Phyllostegia"
+description: "Care guide for Phyllostegia haliakalae Wawra"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/phyllostegia-haliakalae-wawra
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Lanai Phyllostegia
-
-*Phyllostegia haliakalae Wawra* • **Uncategorized**
+### *Phyllostegia haliakalae Wawra*
 
 ![Lanai Phyllostegia](https://upload.wikimedia.org/wikipedia/commons/9/91/Phyllostegia_haliakalae.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Hawaiian Islands (specifically Maui and Lanai) |
-| **Climate** | Subtropical Mesic Forest |
-| **Sunlight** | Partial shade to filtered sunlight, avoiding harsh direct sun, especially during the hottest parts of the day. It typically grows in the understory of forests. |
-| **Watering** | Consistent moisture; soil should remain damp but not waterlogged. Water regularly, allowing the top inch of soil to dry slightly between waterings, mimicking frequent rainfall. |
+| **🌍 Origin** | Hawaiian Islands (specifically Maui and Lanai) |
+| **🌡️ Climate** | Subtropical Mesic Forest |
+| **☀️ Light** | Partial shade to filtered sunlight, avoiding harsh direct sun, especially during the hottest parts of the day. It typically grows in the understory of forests. |
+| **💧 Water** | Consistent moisture; soil should remain damp but not waterlogged. Water regularly, allowing the top inch of soil to dry slightly between waterings, mimicking frequent rainfall. |
 
-## Introduction
+## 🌱 Overview
 Phyllostegia is a genus of flowering plant in the mint family, Lamiaceae, first described in 1840. It is native to certain islands in the Pacific (Hawaii, Tonga and the Society Islands, although it appears to be extinct in the Society Islands). Phyllostegia glabra var. lanaiensis, became extinct before 2021, and was delisted from the Endangered Species Act based on extinction.
 
 Species
@@ -63,11 +64,13 @@ Phyllostegia warshaueri H.St.John - Hawaii Big Island
 Phyllostegia wawrana Sherff - Kauai
 Phyllostegia × yamaguchii Hosaka & O.Deg. - Oahu    (P. glabra × P. hirsuta)
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=12353269)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=12353269)
 
-## Care Guide
+## 🧤 Care Instructions
 To thrive, Lanai Phyllostegia requires conditions similar to its native Hawaiian mesic forest habitat. Provide partial shade or filtered sunlight and maintain consistently moist, well-draining soil. Fertilize moderately during active growth to support its nutrient needs.
 
-### Fertilizer
+### 🧪 Fertilizer
 Moderate fertilization. Apply a balanced, diluted liquid fertilizer every 2-4 weeks during the active growing season (spring and summer), reducing frequency in cooler months.
 
+---
+**Family:** [Uncategorized](/uncategorized)

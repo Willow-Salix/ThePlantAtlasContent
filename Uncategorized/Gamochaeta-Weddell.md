@@ -1,37 +1,40 @@
 ---
-title: Everlasting
-description: Gamochaeta Weddell
+title: "Everlasting"
+description: "Care guide for Gamochaeta Weddell"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/gamochaeta-weddell
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Everlasting
+### *Gamochaeta Weddell*
 
-*Gamochaeta Weddell* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Temperate regions of South America, including Argentina, Chile, Uruguay, and Southern Brazil. |
-| **Climate** | Temperate Grassland |
-| **Sunlight** | Full sun to partial sun; requires bright, open environments similar to its native grassland habitats. |
-| **Watering** | Moderate watering; allow the top soil to dry out completely between waterings. Tolerant of short dry periods once established. |
+| **🌍 Origin** | Temperate regions of South America, including Argentina, Chile, Uruguay, and Southern Brazil. |
+| **🌡️ Climate** | Temperate Grassland |
+| **☀️ Light** | Full sun to partial sun; requires bright, open environments similar to its native grassland habitats. |
+| **💧 Water** | Moderate watering; allow the top soil to dry out completely between waterings. Tolerant of short dry periods once established. |
 
-## Introduction
+## 🌱 Overview
 Everlasting may refer to:
 
 Everlasting life, the concept of physical or spiritual immortality
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=518229)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=518229)
 
-## Care Guide
+## 🧤 Care Instructions
 This 'everlasting' plant prefers full sun and temperate conditions, mirroring its native South American grasslands. Provide moderate watering, allowing the soil to dry between sessions, and use fertilizer sparingly due to its low nutrient demands.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low fertilizer needs; thrives in average to poor soils and generally does not require heavy feeding. A light application of a balanced fertilizer in spring is sufficient if growth is poor.
 
+---
+**Family:** [Uncategorized](/uncategorized)

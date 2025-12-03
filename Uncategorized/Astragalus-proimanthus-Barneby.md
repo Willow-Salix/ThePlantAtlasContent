@@ -1,38 +1,41 @@
 ---
-title: Precocious Milkvetch
-description: Astragalus proimanthus Barneby
+title: "Precocious Milkvetch"
+description: "Care guide for Astragalus proimanthus Barneby"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/astragalus-proimanthus-barneby
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Precocious Milkvetch
+### *Astragalus proimanthus Barneby*
 
-*Astragalus proimanthus Barneby* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Western United States (California, Nevada, Oregon, Utah, Arizona) |
-| **Climate** | Arid Scrubland |
-| **Sunlight** | Full sun (at least 6-8 hours direct sunlight daily) |
-| **Watering** | Infrequent watering; allow soil to dry out completely between waterings. Highly drought-tolerant. |
+| **🌍 Origin** | Western United States (California, Nevada, Oregon, Utah, Arizona) |
+| **🌡️ Climate** | Arid Scrubland |
+| **☀️ Light** | Full sun (at least 6-8 hours direct sunlight daily) |
+| **💧 Water** | Infrequent watering; allow soil to dry out completely between waterings. Highly drought-tolerant. |
 
-## Introduction
+## 🌱 Overview
 Astragalus may refer to:
 
 Astragalus (plant), a large genus of herbs and small shrubs
 Astragalus (bone), the talus or ankle bone
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=74520574)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=74520574)
 
-## Care Guide
+## 🧤 Care Instructions
 This drought-tolerant plant thrives in full sun and very well-draining soil, characteristic of its native arid scrubland habitat. Water infrequently, allowing the soil to dry thoroughly between waterings, and it requires minimal to no fertilization.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to none; as a member of the Fabaceae family, it fixes nitrogen in the soil.
 
+---
+**Family:** [Uncategorized](/uncategorized)

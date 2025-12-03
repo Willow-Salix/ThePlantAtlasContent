@@ -1,30 +1,31 @@
 ---
-title: Donnelli's Frullania
-description: Frullania donnellii Austin
+title: "Donnelli's Frullania"
+description: "Care guide for Frullania donnellii Austin"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/frullania-donnellii-austin
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Donnelli's Frullania
-
-*Frullania donnellii Austin* • **Uncategorized**
+### *Frullania donnellii Austin*
 
 ![Donnelli's Frullania](https://upload.wikimedia.org/wikipedia/commons/a/a0/Frullania_tamarisci_200108b.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (e.g., Florida, Georgia, Gulf Coast states) |
-| **Climate** | Humid Subtropical Forest |
-| **Sunlight** | Indirect light to dappled shade. Thrives under a tree canopy or in sheltered, high-humidity environments. |
-| **Watering** | Requires consistently moist conditions, but not waterlogged. High ambient humidity is crucial; frequent misting or a terrarium setup is beneficial. |
+| **🌍 Origin** | Southeastern United States (e.g., Florida, Georgia, Gulf Coast states) |
+| **🌡️ Climate** | Humid Subtropical Forest |
+| **☀️ Light** | Indirect light to dappled shade. Thrives under a tree canopy or in sheltered, high-humidity environments. |
+| **💧 Water** | Requires consistently moist conditions, but not waterlogged. High ambient humidity is crucial; frequent misting or a terrarium setup is beneficial. |
 
-## Introduction
+## 🌱 Overview
 Frullania is the only genus of liverworts in family Frullaniaceae. It contains the following species:
 A
 
@@ -847,11 +848,13 @@ Frullania zennoskeana Hattori, 1984
 
 
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=12876856)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=12876856)
 
-## Care Guide
+## 🧤 Care Instructions
 This epiphytic liverwort thrives in conditions mimicking its humid subtropical forest origin. Provide indirect light, consistent moisture without waterlogging, and very high ambient humidity, with minimal or no fertilizer.
 
-### Fertilizer
+### 🧪 Fertilizer
 Minimal to none. If fertilized, use a very dilute liquid feed (e.g., 1/8 to 1/4 strength) infrequently, as it's an epiphyte deriving nutrients from rain and decaying organic matter.
 
+---
+**Family:** [Uncategorized](/uncategorized)

@@ -1,37 +1,40 @@
 ---
-title: Lakecress
-description: Neobeckia Greene
+title: "Lakecress"
+description: "Care guide for Neobeckia Greene"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/neobeckia-greene
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Lakecress
-
-*Neobeckia Greene* • **Uncategorized**
+### *Neobeckia Greene*
 
 ![Lakecress](https://upload.wikimedia.org/wikipedia/commons/5/54/Rorippa_aquatica_BB-1913.png)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Eastern and Central North America |
-| **Climate** | Temperate Freshwater Wetland |
-| **Sunlight** | Full sun to partial sun; prefers bright, open conditions. |
-| **Watering** | Consistently wet to submerged; never allow to dry out as it is an aquatic plant. |
+| **🌍 Origin** | Eastern and Central North America |
+| **🌡️ Climate** | Temperate Freshwater Wetland |
+| **☀️ Light** | Full sun to partial sun; prefers bright, open conditions. |
+| **💧 Water** | Consistently wet to submerged; never allow to dry out as it is an aquatic plant. |
 
-## Introduction
+## 🌱 Overview
 Rorippa aquatica (syns. Neobeckia aquatica and Armoracia lacustris), the lakecress or lake cress, is a species of freshwater aquatic flowering plant in the family Brassicaceae. It is found in eastern and central North America, generally in the Great Lakes and Mississippi watersheds. A submerged perennial, it has emergent flowering branches. It is typically found in slow-moving water, such as oxbow lakes. It is used as a foreground aquarium plant, as it is undemanding and very slow-growing.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=74427321)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=74427321)
 
-## Care Guide
+## 🧤 Care Instructions
 Lakecress thrives in temperate freshwater wetland environments, requiring full to partial sun exposure and consistently submerged or very wet conditions. It needs a nutrient-rich substrate or regular aquatic fertilization to support its growth as an aquatic plant.
 
-### Fertilizer
+### 🧪 Fertilizer
 Moderate to high; benefits from nutrient-rich aquatic substrate or regular application of aquatic plant fertilizer.
 
+---
+**Family:** [Uncategorized](/uncategorized)

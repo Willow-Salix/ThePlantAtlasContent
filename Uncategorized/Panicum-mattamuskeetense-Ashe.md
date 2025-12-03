@@ -1,37 +1,40 @@
 ---
-title: Mattamuskeet Panicgrass
-description: Panicum mattamuskeetense Ashe
+title: "Mattamuskeet Panicgrass"
+description: "Care guide for Panicum mattamuskeetense Ashe"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/panicum-mattamuskeetense-ashe
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Mattamuskeet Panicgrass
-
-*Panicum mattamuskeetense Ashe* • **Uncategorized**
+### *Panicum mattamuskeetense Ashe*
 
 ![Mattamuskeet Panicgrass](https://upload.wikimedia.org/wikipedia/commons/7/7a/Panicum_virgatum.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States (North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana) |
-| **Climate** | Temperate to Subtropical Wetlands and Moist Pine Savannas |
-| **Sunlight** | Full sun to partial shade |
-| **Watering** | Keep soil consistently moist to wet; it thrives in saturated conditions and should not be allowed to dry out. |
+| **🌍 Origin** | Southeastern United States (North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana) |
+| **🌡️ Climate** | Temperate to Subtropical Wetlands and Moist Pine Savannas |
+| **☀️ Light** | Full sun to partial shade |
+| **💧 Water** | Keep soil consistently moist to wet; it thrives in saturated conditions and should not be allowed to dry out. |
 
-## Introduction
+## 🌱 Overview
 Panicum (panicgrass) is a large genus of about 250 species of grasses mostly native to tropical regions.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=2106164)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=2106164)
 
-## Care Guide
+## 🧤 Care Instructions
 This wetland grass requires consistently moist to wet soil conditions, ideally mimicking its native habitat in full sun to partial shade. Do not let the soil dry out, as it thrives in saturated environments. It is a low to moderate feeder, benefiting from minimal fertilization.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to moderate; a light application of a balanced slow-release fertilizer once in spring may be beneficial, but it's not a heavy feeder.
 
+---
+**Family:** [Uncategorized](/uncategorized)

@@ -1,38 +1,41 @@
 ---
-title: Water Shield
-description: Brasenia peltata Pursh
+title: "Water Shield"
+description: "Care guide for Brasenia peltata Pursh"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/brasenia-peltata-pursh
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Water Shield
+### *Brasenia peltata Pursh*
 
-*Brasenia peltata Pursh* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Widespread across North America (e.g., USA, Canada, Mexico), East Asia (e.g., China, Japan, India, Korea), parts of Africa, and Australia. |
-| **Climate** | Temperate to Tropical Freshwater Aquatic |
-| **Sunlight** | Full sun to partial shade, preferring full sun for robust growth and flowering. |
-| **Watering** | Requires constant submersion in still or slow-moving freshwater; cannot tolerate drying out as it is an aquatic plant. |
+| **🌍 Origin** | Widespread across North America (e.g., USA, Canada, Mexico), East Asia (e.g., China, Japan, India, Korea), parts of Africa, and Australia. |
+| **🌡️ Climate** | Temperate to Tropical Freshwater Aquatic |
+| **☀️ Light** | Full sun to partial shade, preferring full sun for robust growth and flowering. |
+| **💧 Water** | Requires constant submersion in still or slow-moving freshwater; cannot tolerate drying out as it is an aquatic plant. |
 
-## Introduction
+## 🌱 Overview
 Water-shield may refer to the following aquatic plants:
 
 Brasenia schreberi (water-shield)
 Cabomba caroliniana (fanwort; Carolina water-shield)
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=7408534)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=7408534)
 
-## Care Guide
+## 🧤 Care Instructions
 Water Shield is an aquatic plant that thrives in full sun and requires constant submersion in still, freshwater environments like ponds. It benefits from a nutrient-rich substrate to support its growth, mimicking its natural habitat. Ensure stable water levels and bright light for optimal health and vigor.
 
-### Fertilizer
+### 🧪 Fertilizer
 Moderate to high, benefiting from nutrient-rich pond sediments or specialized aquatic plant fertilizers.
 
+---
+**Family:** [Uncategorized](/uncategorized)

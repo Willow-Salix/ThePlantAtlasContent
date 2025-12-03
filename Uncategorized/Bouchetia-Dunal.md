@@ -1,38 +1,41 @@
 ---
-title: Bouchetia
-description: Bouchetia Dunal
+title: "Bouchetia"
+description: "Care guide for Bouchetia Dunal"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/bouchetia-dunal
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Bouchetia
+### *Bouchetia Dunal*
 
-*Bouchetia Dunal* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern South America (e.g., Brazil, Uruguay, Paraguay, Argentina) and parts of the Caribbean |
-| **Climate** | Subtropical Grassland and Scrubland |
-| **Sunlight** | Full sun to partial shade, thriving in bright, open conditions typical of its native habitat. |
-| **Watering** | Moderate watering, allowing the topsoil to dry slightly between waterings. It is adapted to periods of both rainfall and relative dryness. |
+| **🌍 Origin** | Southeastern South America (e.g., Brazil, Uruguay, Paraguay, Argentina) and parts of the Caribbean |
+| **🌡️ Climate** | Subtropical Grassland and Scrubland |
+| **☀️ Light** | Full sun to partial shade, thriving in bright, open conditions typical of its native habitat. |
+| **💧 Water** | Moderate watering, allowing the topsoil to dry slightly between waterings. It is adapted to periods of both rainfall and relative dryness. |
 
-## Introduction
+## 🌱 Overview
 Bouchetia is the scientific name of two genera of organisms and may refer to:
 
 Bouchetia (gastropod), a genus of molluscs in the family Muricidae
 Bouchetia (plant), a genus of plants in the family Solanaceae
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=81439095)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=81439095)
 
-## Care Guide
+## 🧤 Care Instructions
 Bouchetia thrives in conditions reminiscent of its native South American grasslands, requiring ample sunlight and moderate watering, allowing the soil to dry out between sessions. It prefers well-draining soil and benefits from light to moderate fertilization during its active growth period to support healthy development.
 
-### Fertilizer
+### 🧪 Fertilizer
 Light to moderate fertilization during the active growing season, consistent with plants growing in natural grassland or scrubland soils.
 
+---
+**Family:** [Uncategorized](/uncategorized)

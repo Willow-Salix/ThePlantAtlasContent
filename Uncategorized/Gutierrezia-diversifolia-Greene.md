@@ -1,30 +1,31 @@
 ---
-title: Diverse-leaved Snakeweed
-description: Gutierrezia diversifolia Greene
+title: "Diverse-leaved Snakeweed"
+description: "Care guide for Gutierrezia diversifolia Greene"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/gutierrezia-diversifolia-greene
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Diverse-leaved Snakeweed
-
-*Gutierrezia diversifolia Greene* • **Uncategorized**
+### *Gutierrezia diversifolia Greene*
 
 ![Diverse-leaved Snakeweed](https://upload.wikimedia.org/wikipedia/commons/7/76/Gutierreziasarothrae.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southwestern United States (Arizona, New Mexico, Texas) and Northern Mexico |
-| **Climate** | Arid Scrubland |
-| **Sunlight** | Full sun (6+ hours of direct sunlight daily) |
-| **Watering** | Very infrequent watering, allowing soil to dry out completely between waterings; highly drought-tolerant |
+| **🌍 Origin** | Southwestern United States (Arizona, New Mexico, Texas) and Northern Mexico |
+| **🌡️ Climate** | Arid Scrubland |
+| **☀️ Light** | Full sun (6+ hours of direct sunlight daily) |
+| **💧 Water** | Very infrequent watering, allowing soil to dry out completely between waterings; highly drought-tolerant |
 
-## Introduction
+## 🌱 Overview
 Gutierrezia is a genus of flowering plants in the family Asteraceae, native to western North America and western South America. Plants of this genus are known generally as snakeweeds or matchweeds. Some species have been called greasewood. They are annual or perennial plants or subshrubs with yellow or white flowers.
 These plants contain chemical compounds which can be toxic to livestock and some are considered weeds.
 
@@ -63,11 +64,13 @@ Gutierrezia taltalensis - Chile
 Gutierrezia texana – Texas snakeweed - USA (New Mexico, Texas Oklahoma Louisiana Arkansas), Nuevo León
 Gutierrezia wrightii – Wright's snakeweed - USA (Arizona, New Mexico), Chihuahua, Durango, Sonora
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=12965302)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=12965302)
 
-## Care Guide
+## 🧤 Care Instructions
 This plant thrives in full sun and very well-draining soil, mimicking its native arid scrubland environment. It is extremely drought-tolerant, requiring infrequent watering, and has very low fertilizer needs. Ensure excellent drainage to prevent root rot.
 
-### Fertilizer
+### 🧪 Fertilizer
 Minimal to no fertilizer needed; adapted to nutrient-poor soils
 
+---
+**Family:** [Uncategorized](/uncategorized)

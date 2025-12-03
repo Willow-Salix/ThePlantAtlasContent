@@ -1,41 +1,44 @@
 ---
-title: Big-fruited Prickly Pear
-description: Opuntia megacarpa Griffiths
+title: "Big-fruited Prickly Pear"
+description: "Care guide for Opuntia megacarpa Griffiths"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/opuntia-megacarpa-griffiths
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Big-fruited Prickly Pear
-
-*Opuntia megacarpa Griffiths* • **Uncategorized**
+### *Opuntia megacarpa Griffiths*
 
 ![Big-fruited Prickly Pear](https://upload.wikimedia.org/wikipedia/commons/2/22/Opuntia_littoralis_var_vaseyi_4.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Central Mexico |
-| **Climate** | Arid Scrubland |
-| **Sunlight** | Full direct sun, requiring at least 6-8 hours of intense sunlight daily. |
-| **Watering** | Water sparingly, allowing the soil to dry out completely between waterings. Highly drought-tolerant; susceptible to root rot if overwatered. |
+| **🌍 Origin** | Central Mexico |
+| **🌡️ Climate** | Arid Scrubland |
+| **☀️ Light** | Full direct sun, requiring at least 6-8 hours of intense sunlight daily. |
+| **💧 Water** | Water sparingly, allowing the soil to dry out completely between waterings. Highly drought-tolerant; susceptible to root rot if overwatered. |
 
-## Introduction
+## 🌱 Overview
 Opuntia, commonly called the prickly pear cactus, is a genus of flowering plants in the cactus family Cactaceae, many known for their flavorful fruit and showy flowers. Cacti are native to the Americas, and are well adapted to arid climates; however, they are still vulnerable to alterations in precipitation and temperature driven by climate change. The plant has been introduced to Australia, southern Europe, the Middle East, and parts of Africa.
 Prickly pear alone is also used to refer to the fruit, but may also be used for the plant itself; in addition, other names given to the plant and its specific parts include tuna (fruit), sabra, sabbar, nopal (pads, plural nopales, from the Nahuatl word nōpalli), nostle (fruit) from the Nahuatl word nōchtli, and paddle cactus. The genus is named for the Ancient Greek city of Opus. The fruit and leaves are edible. The most common culinary species is the "Barbary fig" (Opuntia ficus-indica).
 In places where they have been introduced outside their native range, some species in the genus Opuntia behave as aggressive invasive species.
 
 
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=23649300)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=23649300)
 
-## Care Guide
+## 🧤 Care Instructions
 This Opuntia thrives in conditions mimicking its native arid scrubland environment, requiring abundant direct sunlight and minimal water. Ensure excellent drainage and infrequent watering to prevent root rot, and provide light fertilization during its growing period for optimal health.
 
-### Fertilizer
+### 🧪 Fertilizer
 Fertilize lightly with a balanced, low-nitrogen cactus fertilizer during its active growing season (spring and summer), typically once every 2-4 weeks.
 
+---
+**Family:** [Uncategorized](/uncategorized)

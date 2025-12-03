@@ -1,30 +1,33 @@
 ---
-title: Melktou
-description: Antoschmidtia bulbosa (Stapf) Peter
+title: "Melktou"
+description: "Care guide for Antoschmidtia bulbosa (Stapf) Peter"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/antoschmidtia-bulbosa-stapf-peter
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Melktou
+### *Antoschmidtia bulbosa (Stapf) Peter*
 
-*Antoschmidtia bulbosa (Stapf) Peter* • **Uncategorized**
+## 📋 Quick Specs
 
-## Quick Facts
-
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southern Africa (South Africa, Botswana, Namibia, Zimbabwe) |
-| **Climate** | Semi-arid Scrubland |
-| **Sunlight** | Full sun to partial sun (at least 6 hours direct sun daily), mimicking its exposed native habitat. |
-| **Watering** | Drought-tolerant. Water deeply only when the soil is completely dry, allowing for extended dry periods between waterings, especially during dormant or cooler months. |
+| **🌍 Origin** | Southern Africa (South Africa, Botswana, Namibia, Zimbabwe) |
+| **🌡️ Climate** | Semi-arid Scrubland |
+| **☀️ Light** | Full sun to partial sun (at least 6 hours direct sun daily), mimicking its exposed native habitat. |
+| **💧 Water** | Drought-tolerant. Water deeply only when the soil is completely dry, allowing for extended dry periods between waterings, especially during dormant or cooler months. |
 
-## Care Guide
+## 🧤 Care Instructions
 This succulent thrives in full sun, mimicking its native semi-arid scrubland habitat of Southern Africa. It requires infrequent, deep watering, allowing the soil to dry out completely between waterings, and has very low fertilizer needs. Ensure excellent drainage to prevent root rot.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low. Fertilize sparingly, once or twice during the growing season (spring/summer) with a diluted, balanced fertilizer, or not at all if repotted annually.
 
+---
+**Family:** [Uncategorized](/uncategorized)

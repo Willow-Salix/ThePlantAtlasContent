@@ -1,30 +1,31 @@
 ---
-title: Needle Indiangrass
-description: Sorghastrum stipoides (Kunth) Nash
+title: "Needle Indiangrass"
+description: "Care guide for Sorghastrum stipoides (Kunth) Nash"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/sorghastrum-stipoides-kunth-nash
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Needle Indiangrass
-
-*Sorghastrum stipoides (Kunth) Nash* • **Uncategorized**
+### *Sorghastrum stipoides (Kunth) Nash*
 
 ![Needle Indiangrass](https://upload.wikimedia.org/wikipedia/commons/b/b2/Sorghastrum_nutans_EPA-2.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Southeastern United States, Mexico, Central America, and South America (e.g., Brazil, Argentina) |
-| **Climate** | Subtropical and Tropical Grasslands/Savannas |
-| **Sunlight** | Full sun (6+ hours direct sunlight daily), as it naturally grows in open grasslands. |
-| **Watering** | Moderate watering, preferring consistent moisture during active growth but tolerating periods of drought once established, characteristic of its native wet and dry season climates. Ensure well-drained soil. |
+| **🌍 Origin** | Southeastern United States, Mexico, Central America, and South America (e.g., Brazil, Argentina) |
+| **🌡️ Climate** | Subtropical and Tropical Grasslands/Savannas |
+| **☀️ Light** | Full sun (6+ hours direct sunlight daily), as it naturally grows in open grasslands. |
+| **💧 Water** | Moderate watering, preferring consistent moisture during active growth but tolerating periods of drought once established, characteristic of its native wet and dry season climates. Ensure well-drained soil. |
 
-## Introduction
+## 🌱 Overview
 Sorghastrum is a genus of grasses, native to Africa and the Americas.
 Members of the genus are commonly known as Indiangrass.
 
@@ -50,11 +51,13 @@ Sorghastrum stipoides (Kunth) Nash – Needle Indiangrass - tropical + southern 
 Sorghastrum tisserantii Clayton - Central African Rep
 Sorghastrum viride Swallen - Paraguay, Brazil, Argentina, Uruguay
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=24610463)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=24610463)
 
-## Care Guide
+## 🧤 Care Instructions
 Needle Indiangrass thrives in full sun and well-drained soil, characteristic of its native subtropical grasslands. It prefers moderate watering during its growing season but is quite drought-tolerant once established. Minimal fertilization is required, making it a low-maintenance choice for warm, sunny landscapes.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to moderate; this native grass is adapted to average soil fertility and generally does not require heavy fertilization. A light application of balanced fertilizer in spring is sufficient if soil is poor.
 
+---
+**Family:** [Uncategorized](/uncategorized)

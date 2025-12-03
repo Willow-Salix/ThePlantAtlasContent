@@ -1,37 +1,40 @@
 ---
-title: Mugo Pine
-description: Pinus mugo Turra
+title: "Mugo Pine"
+description: "Care guide for Pinus mugo Turra"
 published: true
 date: 2025-12-02
-tags: 
+editor: markdown
+path: uncategorized/pinus-mugo-turra
+tags:
   - Uncategorized
-  - Plant
+  - Flora
   - Auto-Generated
 ---
 
 # Mugo Pine
-
-*Pinus mugo Turra* • **Uncategorized**
+### *Pinus mugo Turra*
 
 ![Mugo Pine](https://upload.wikimedia.org/wikipedia/commons/4/49/Pinus_mugo_cone_01.jpg)
 
-## Quick Facts
+## 📋 Quick Specs
 
-| Property | Value |
+| Feature | Detail |
 | :--- | :--- |
-| **Native Origin** | Central and Southern Europe, specifically the mountains of the Alps, Carpathians, Balkans, and Apennines. |
-| **Climate** | Alpine Tundra to Subalpine Coniferous Forest, characterized by cold winters, cool summers, and high light exposure. |
-| **Sunlight** | Full sun, as it naturally grows in open, exposed mountain slopes above or at the treeline. |
-| **Watering** | Moderate watering, allowing the soil to dry out between waterings. It thrives in well-drained soil and is drought-tolerant once established. |
+| **🌍 Origin** | Central and Southern Europe, specifically the mountains of the Alps, Carpathians, Balkans, and Apennines. |
+| **🌡️ Climate** | Alpine Tundra to Subalpine Coniferous Forest, characterized by cold winters, cool summers, and high light exposure. |
+| **☀️ Light** | Full sun, as it naturally grows in open, exposed mountain slopes above or at the treeline. |
+| **💧 Water** | Moderate watering, allowing the soil to dry out between waterings. It thrives in well-drained soil and is drought-tolerant once established. |
 
-## Introduction
+## 🌱 Overview
 Pinus mugo, known as dwarf mountain pine, mountain pine,  scrub mountain pine, Swiss mountain pine, bog pine, creeping pine, or mugo pine, is a species of conifer, native to high elevation habitats from southwestern to Central Europe and Southeast Europe.
 
-> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=438946)
+> [Read full Wikipedia entry](https://en.wikipedia.org/?curid=438946)
 
-## Care Guide
+## 🧤 Care Instructions
 To thrive, Mugo Pine requires full sun and well-drained soil, mimicking its native exposed mountain habitat. Water moderately, allowing soil to dry between sessions, and fertilize sparingly as it is adapted to lean alpine conditions.
 
-### Fertilizer
+### 🧪 Fertilizer
 Low to moderate fertilization. Native alpine soils are often lean, so a balanced slow-release fertilizer can be applied sparingly in spring.
 
+---
+**Family:** [Uncategorized](/uncategorized)
