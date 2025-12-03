@@ -1,0 +1,40 @@
+---
+title: Naked Turtleback
+description: Psathyrotopsis scaposa (A. Gray) H. Rob.
+published: true
+date: 2025-12-02
+tags: 
+  - Uncategorized
+  - Plant
+  - Auto-Generated
+---
+
+# Naked Turtleback
+
+*Psathyrotopsis scaposa (A. Gray) H. Rob.* • **Uncategorized**
+
+## Quick Facts
+
+| Property | Value |
+| :--- | :--- |
+| **Native Origin** | Southwestern United States (Arizona, California, Nevada, Utah) |
+| **Climate** | Arid Scrubland / Desert |
+| **Sunlight** | Full sun (at least 6-8 hours of direct sunlight daily), mimicking its open desert habitat. |
+| **Watering** | Very infrequent watering. Allow the soil to dry out completely between waterings, as it is highly drought-tolerant and susceptible to root rot with overwatering. |
+
+## Introduction
+Psathyrotopsis is a genus of North American plants in the tribe Bahieae within the family Asteraceae.
+
+Species
+Psathyrotopsis hintoniorum B.L.Turner - Coahuila
+Psathyrotopsis purpusii (Brandegee) Rydb. - Coahuila
+Psathyrotopsis scaposa (A.Gray) H.Rob. - Chihuahua, Texas, New Mexico
+
+> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=44923483)
+
+## Care Guide
+Naked Turtleback thrives in conditions mimicking its native Southwestern U.S. desert habitat. Provide full sun and very infrequent watering, allowing the soil to thoroughly dry between applications, as it is highly drought-tolerant. Fertilizer needs are minimal due to its adaptation to nutrient-poor soils.
+
+### Fertilizer
+Minimal to no fertilizer. If fertilized, use a very diluted, low-nitrogen formula once or twice during the growing season, as it naturally thrives in nutrient-poor desert soils.
+

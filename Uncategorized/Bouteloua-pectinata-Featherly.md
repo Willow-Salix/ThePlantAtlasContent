@@ -1,0 +1,37 @@
+---
+title: Featherly Grama Grass
+description: Bouteloua pectinata Featherly
+published: true
+date: 2025-12-02
+tags: 
+  - Uncategorized
+  - Plant
+  - Auto-Generated
+---
+
+# Featherly Grama Grass
+
+*Bouteloua pectinata Featherly* • **Uncategorized**
+
+![Featherly Grama Grass](https://upload.wikimedia.org/wikipedia/commons/8/8a/Bouteloua_curtipendula.jpg)
+
+## Quick Facts
+
+| Property | Value |
+| :--- | :--- |
+| **Native Origin** | Great Plains of North America, including parts of the USA and Mexico |
+| **Climate** | Arid Grassland/Steppe |
+| **Sunlight** | Full Sun (at least 6-8 hours of direct sunlight daily) |
+| **Watering** | Low. This drought-tolerant grass prefers to dry out completely between waterings. Water deeply but infrequently, especially once established. |
+
+## Introduction
+Bouteloua is a genus of plants in the grass family Poaceae. Members of the genus are commonly known as grama grass.
+
+> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=4111676)
+
+## Care Guide
+This resilient grass thrives in full sun and requires minimal watering due to its native arid grassland climate. Avoid over-fertilization, as it is adapted to nutrient-poor soils. Allow the soil to dry thoroughly between infrequent waterings.
+
+### Fertilizer
+Low to None. Over-fertilization can harm the plant. A light, balanced fertilizer application in spring is optional for very poor soils.
+

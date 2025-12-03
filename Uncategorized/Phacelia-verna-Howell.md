@@ -1,0 +1,41 @@
+---
+title: Spring Phacelia
+description: Phacelia verna Howell
+published: true
+date: 2025-12-02
+tags: 
+  - Uncategorized
+  - Plant
+  - Auto-Generated
+---
+
+# Spring Phacelia
+
+*Phacelia verna Howell* • **Uncategorized**
+
+![Spring Phacelia](https://upload.wikimedia.org/wikipedia/commons/f/fb/Phacelia_tanacetifolia_7735.JPG)
+
+## Quick Facts
+
+| Property | Value |
+| :--- | :--- |
+| **Native Origin** | Western North America (Oregon and Washington, USA) |
+| **Climate** | Temperate Montane/Subalpine, characterized by moist springs and moderate summers |
+| **Sunlight** | Partial sun to bright indirect light is ideal. It can tolerate full morning sun but benefits from afternoon shade, especially in warmer climates. |
+| **Watering** | Requires consistent moisture, particularly during its active growth and flowering period in spring. Keep the soil damp but well-drained, avoiding waterlogging. |
+
+## Introduction
+Phacelia (phacelia, scorpionweed, heliotrope) is a genus of about 200 species of annual or perennial herbaceous plants in the borage family, native to North and South America. California is particularly rich in species with over 90 recorded in the region.
+The genus is traditionally placed at family rank with the waterleafs (Hydrophyllaceae) in the order Boraginales. The Angiosperm Phylogeny Group, recognizing that the traditional Boraginaceae and Hydrophyllaceae are paraphyletic with respect to each other, merges the latter into the former and considers the family basal in the Euasterids I clade. Other botanists continue to recognize the Hydrophyllaceae and Boraginales after analysing the secondary structure of the ITS1 genetic region rather than its sequence for these higher taxonomic levels.  This placed Phacelia within the Hydrophyllaceae. Further molecular taxonomic analysis of the Boraginales has divided the Boraginales in two and placed Phacelia among the monophyletic herbaceous Hydrophyllaceae in Boraginales II.
+The genus includes both annual and perennial species. Many have been cultivated as garden and honey plants.
+There are reports that glandular hairs of stems, flowers and leaves of some species of Phacelia secrete oil droplets that can cause an unpleasant skin rash (contact dermatitis) in some people, specifically from P. brachyloba, P. campanularia, P. crenulata, P. gina-glenneae, P. grandiflora, P. ixodes, P. minor, and P. pedicellata. The major contact allergen of P. crenulata has been identified as geranylhydroquinone and of P. minor as geranylgeranylhydroquinone.
+The mining bee Andrena phaceliae is a specialist pollinator of this genus in the Eastern United States.
+
+> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=3449991)
+
+## Care Guide
+Spring Phacelia thrives in cool, moist conditions with partial sun to bright indirect light. It requires consistent watering, especially during its spring bloom, in well-drained soil. Minimal fertilization is needed, as it typically completes its lifecycle quickly in moderately rich environments.
+
+### Fertilizer
+Minimal fertilization is needed. A light application of a balanced, slow-release fertilizer in early spring or amending the soil with compost is generally sufficient, or none if soil is naturally rich.
+

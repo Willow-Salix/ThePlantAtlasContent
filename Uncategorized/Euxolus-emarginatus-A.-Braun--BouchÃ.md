@@ -1,0 +1,30 @@
+---
+title: Emarginate Amaranth
+description: Euxolus emarginatus A. Braun & BouchÃ©
+published: true
+date: 2025-12-02
+tags: 
+  - Uncategorized
+  - Plant
+  - Auto-Generated
+---
+
+# Emarginate Amaranth
+
+*Euxolus emarginatus A. Braun & BouchÃ©* • **Uncategorized**
+
+## Quick Facts
+
+| Property | Value |
+| :--- | :--- |
+| **Native Origin** | Mexico, Central America, Caribbean, and parts of South America |
+| **Climate** | Tropical and Subtropical |
+| **Sunlight** | Full sun (6+ hours of direct sunlight daily) |
+| **Watering** | Moderate to frequent, allowing the topsoil to dry slightly between waterings; tolerates short dry spells. |
+
+## Care Guide
+As an annual native to tropical and subtropical disturbed areas, this plant thrives in full sun and well-drained soil. Provide consistent moisture, allowing the topsoil to dry slightly between waterings, and feed lightly during its active growth for best results.
+
+### Fertilizer
+Light to moderate feeding with a balanced all-purpose fertilizer during the growing season.
+

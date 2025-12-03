@@ -1,0 +1,38 @@
+---
+title: Thimbleberry
+description: Rubus par L.H. Bailey
+published: true
+date: 2025-12-02
+tags: 
+  - Uncategorized
+  - Plant
+  - Auto-Generated
+---
+
+# Thimbleberry
+
+*Rubus par L.H. Bailey* • **Uncategorized**
+
+![Thimbleberry](https://upload.wikimedia.org/wikipedia/commons/7/7c/Rubus_parviflorus_9481.JPG)
+
+## Quick Facts
+
+| Property | Value |
+| :--- | :--- |
+| **Native Origin** | Western North America (from Alaska south to California, extending east to Michigan and Ontario) |
+| **Climate** | Temperate Woodland/Forest Edge |
+| **Sunlight** | Partial shade to full sun. Prefers some afternoon shade in warmer climates to prevent leaf scorch. |
+| **Watering** | Regularly; keep soil consistently moist but not waterlogged. Tolerates brief dry spells once established but thrives with consistent moisture, especially during fruiting. |
+
+## Introduction
+Rubus parviflorus, the fruit of which is commonly called the thimbleberry or redcap, is a species of Rubus with large hairy leaves and no thorns.
+The species is native to northern temperate regions of North America. It produces red aggregate fruit similar in appearance to a raspberry; although edible, it is too soft for major commerce. It is cultivated as an ornamental.
+
+> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=1566013)
+
+## Care Guide
+Thimbleberry thrives with consistent moisture and adaptable light conditions, ranging from partial shade to full sun, benefiting from afternoon shade in hotter areas. It requires well-draining, moderately fertile soil, mimicking its native woodland and forest edge habitats for optimal growth and fruit production.
+
+### Fertilizer
+Moderate. Benefits from organic matter such as compost or a balanced, slow-release granular fertilizer applied in early spring.
+

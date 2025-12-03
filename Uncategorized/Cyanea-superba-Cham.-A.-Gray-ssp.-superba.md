@@ -1,0 +1,40 @@
+---
+title: Mt. Kaala Cyanea
+description: Cyanea superba (Cham.) A. Gray ssp. superba
+published: true
+date: 2025-12-02
+tags: 
+  - Uncategorized
+  - Plant
+  - Auto-Generated
+---
+
+# Mt. Kaala Cyanea
+
+*Cyanea superba (Cham.) A. Gray ssp. superba* • **Uncategorized**
+
+## Quick Facts
+
+| Property | Value |
+| :--- | :--- |
+| **Native Origin** | Mount Kaʻala, Oʻahu, Hawaiʻi (endemic) |
+| **Climate** | Tropical Montane Wet Forest / Cloud Forest |
+| **Sunlight** | Bright, indirect light to partial shade, avoiding direct harsh sun. Mimics the dappled light of its forest understory habitat. |
+| **Watering** | Consistently moist, well-draining soil. Requires high humidity, mimicking the frequent rainfall and cloud cover of its native environment. |
+
+## Introduction
+Cyanea may refer to:
+
+Cyanea (cnidarian), a genus of jellyfish in the family Cyaneidae
+Cyanea (plant), a genus of Hawaiian plants in the family Campanulaceae
+Cyanea, a Naiad
+Cyanea, a species name
+
+> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=4875508)
+
+## Care Guide
+To thrive, Mt. Kaala Cyanea requires an environment that closely mimics its native montane wet forest: high humidity, consistently moist (but not waterlogged) well-draining soil, and bright, indirect light. Protect it from direct sun and provide regular, dilute fertilization during active growth.
+
+### Fertilizer
+Moderate feeding with a balanced, diluted liquid fertilizer during the growing season. Native forest soils provide a steady, albeit often leached, supply of nutrients.
+

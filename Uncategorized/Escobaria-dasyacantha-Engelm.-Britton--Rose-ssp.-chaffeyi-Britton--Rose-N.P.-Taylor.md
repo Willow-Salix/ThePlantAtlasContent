@@ -1,0 +1,38 @@
+---
+title: Chaffey's Nipple Cactus
+description: Escobaria dasyacantha (Engelm.) Britton & Rose ssp. chaffeyi (Britton & Rose) N.P. Taylor
+published: true
+date: 2025-12-02
+tags: 
+  - Uncategorized
+  - Plant
+  - Auto-Generated
+---
+
+# Chaffey's Nipple Cactus
+
+*Escobaria dasyacantha (Engelm.) Britton & Rose ssp. chaffeyi (Britton & Rose) N.P. Taylor* • **Uncategorized**
+
+![Chaffey's Nipple Cactus](https://upload.wikimedia.org/wikipedia/commons/3/3d/Pelecyphora_strobiliformis.jpg)
+
+## Quick Facts
+
+| Property | Value |
+| :--- | :--- |
+| **Native Origin** | West Texas and Southern New Mexico, USA |
+| **Climate** | Arid Scrubland / Chihuahuan Desert |
+| **Sunlight** | Full sun to bright indirect light, requiring at least 6 hours of direct sunlight daily to thrive and flower. |
+| **Watering** | Water infrequently. Allow the soil to dry out completely between waterings, typically every 2-4 weeks in summer and significantly reduced or withheld in winter. |
+
+## Introduction
+Pelecyphora, pincushion cactus or foxtail cactus is a genus of cacti, comprising 20 species. They originate from Mexico and the United States.
+Common species include the Missouri foxtail cactus P. missouriensis, widespread in grassland and forest west of the Mississippi, and the spinystar P. vivipara, distributed across the US and into Canada, first described by Nuttall in 1813.
+
+> [Read full article on Wikipedia](https://en.wikipedia.org/?curid=2682106)
+
+## Care Guide
+This desert native thrives in full sun conditions and requires excellent drainage. Water infrequently, allowing the soil to fully dry out between sessions, and fertilize minimally during the spring and summer growing period. Provide a dormant period with minimal water in winter.
+
+### Fertilizer
+Low fertilizer needs. Fertilize sparingly during the growing season (spring/summer) with a diluted cactus or succulent-specific fertilizer; no fertilization needed during dormancy.
+
